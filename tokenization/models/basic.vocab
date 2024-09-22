@@ -1,0 +1,4096 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[e][ ] -> [e ] 256
+[,][ ] -> [, ] 257
+[d][ ] -> [d ] 258
+[.][ ] -> [. ] 259
+[r][ ] -> [r ] 260
+[2][0] -> [20] 261
+[s][ ] -> [s ] 262
+[i][n] -> [in] 263
+[o][n] -> [on] 264
+[r][i] -> [ri] 265
+[t][ ] -> [t ] 266
+[t][h] -> [th] 267
+[e][d ] -> [ed ] 268
+[, ][20] -> [, 20] 269
+[a][n] -> [an] 270
+[a][r] -> [ar] 271
+[e][r ] -> [er ] 272
+[y][ ] -> [y ] 273
+[a][l] -> [al] 274
+[th][e ] -> [the ] 275
+[v][ed ] -> [ved ] 276
+[w][i] -> [wi] 277
+[e][r] -> [er] 278
+[on][ ] -> [on ] 279
+[wi][f] -> [wif] 280
+[R][e] -> [Re] 281
+[S][wif] -> [Swif] 282
+[o][r ] -> [or ] 283
+[c][h] -> [ch] 284
+[, 20][1] -> [, 201] 285
+[o][m] -> [om] 286
+[b][er ] -> [ber ] 287
+[ ][the ] -> [ the ] 288
+[a][y] -> [ay] 289
+[e][n] -> [en] 290
+[o][r] -> [or] 291
+[al][ ] -> [al ] 292
+[e][m] -> [em] 293
+[.][\u000a] -> [.\u000a] 294
+[ri][e] -> [rie] 295
+[in][g] -> [ing] 296
+[, 20][2] -> [, 202] 297
+[t][i] -> [ti] 298
+[ay][l] -> [ayl] 299
+["][. ] -> [". ] 300
+[l][l] -> [ll] 301
+[T][ayl] -> [Tayl] 302
+[t][rie] -> [trie] 303
+[.\u000a][ ] -> [.\u000a ] 304
+[t][o] -> [to] 305
+[. ][Re] -> [. Re] 306
+[. Re][trie] -> [. Retrie] 307
+[. Retrie][ved ] -> [. Retrieved ] 308
+[Tayl][or ] -> [Taylor ] 309
+[e][s] -> [es] 310
+[Taylor ][Swif] -> [Taylor Swif] 311
+[u][s] -> [us] 312
+[r][om] -> [rom] 313
+[em][ber ] -> [ember ] 314
+[)][. ] -> [). ] 315
+[A][r] -> [Ar] 316
+[f][rom] -> [from] 317
+[). ]["] -> [). "] 318
+[an][d ] -> [and ] 319
+[r][e] -> [re] 320
+[o][u] -> [ou] 321
+[o][ri] -> [ori] 322
+[o][f] -> [of] 323
+[g][in] -> [gin] 324
+[ing][ ] -> [ing ] 325
+[ch][i] -> [chi] 326
+[]][ ] -> [] ] 327
+[gin][al ] -> [ginal ] 328
+[from][ the ] -> [from the ] 329
+[ori][ginal ] -> [original ] 330
+[h][e ] -> [he ] 331
+[Ar][chi] -> [Archi] 332
+[Archi][ved ] -> [Archived ] 333
+[from the ][original ] -> [from the original ] 334
+[Archived ][from the original ] -> [Archived from the original ] 335
+[Archived from the original ][on ] -> [Archived from the original on ] 336
+[. ][Archived from the original on ] -> [. Archived from the original on ] 337
+[a][ ] -> [a ] 338
+[s][t] -> [st] 339
+[i][c] -> [ic] 340
+[.][[] -> [.[] 341
+[e][c] -> [ec] 342
+[i][ll] -> [ill] 343
+['][s ] -> ['s ] 344
+[Taylor Swif][t ] -> [Taylor Swift ] 345
+[o][v] -> [ov] 346
+[a][t] -> [at] 347
+[a][s ] -> [as ] 348
+[e][s ] -> [es ] 349
+[J][u] -> [Ju] 350
+[of][ ] -> [of ] 351
+[to][ ] -> [to ] 352
+[u][m] -> [um] 353
+[T][he ] -> [The ] 354
+[ar][d] -> [ard] 355
+[in][ ] -> [in ] 356
+[an][ ] -> [an ] 357
+[e][l] -> [el] 358
+[, 202][3] -> [, 2023] 359
+[ar][y ] -> [ary ] 360
+[th][ ] -> [th ] 361
+[a][m] -> [am] 362
+[l][y ] -> [ly ] 363
+[o][p] -> [op] 364
+[Taylor Swif][t] -> [Taylor Swift] 365
+[t][r] -> [tr] 366
+[i][s] -> [is] 367
+[h][er ] -> [her ] 368
+[o][ ] -> [o ] 369
+[u][ary ] -> [uary ] 370
+[N][ov] -> [Nov] 371
+[us][ic] -> [usic] 372
+[Nov][ember ] -> [November ] 373
+[e][w] -> [ew] 374
+[a][t ] -> [at ] 375
+[l][ ] -> [l ] 376
+[:][ ] -> [: ] 377
+[b][o] -> [bo] 378
+[Swif][t ] -> [Swift ] 379
+[D][ec] -> [Dec] 380
+[i][t] -> [it] 381
+[i][g] -> [ig] 382
+[B][ill] -> [Bill] 383
+[1][0] -> [10] 384
+[a][s] -> [as] 385
+[on][g] -> [ong] 386
+[O][c] -> [Oc] 387
+[a][ti] -> [ati] 388
+[S][t] -> [St] 389
+[Oc][to] -> [Octo] 390
+[Octo][ber ] -> [October ] 391
+[a][c] -> [ac] 392
+[o][w] -> [ow] 393
+[Dec][ember ] -> [December ] 394
+[Bill][bo] -> [Billbo] 395
+[a][d] -> [ad] 396
+[l][e] -> [le] 397
+[u][r] -> [ur] 398
+[f][or ] -> [for ] 399
+[ ][(] -> [ (] 400
+[, 202][2] -> [, 2022] 401
+[u][g] -> [ug] 402
+[ch][ ] -> [ch ] 403
+[s][t ] -> [st ] 404
+[ou][n] -> [oun] 405
+[b][um] -> [bum] 406
+[o][l] -> [ol] 407
+[us][t ] -> [ust ] 408
+[e][b] -> [eb] 409
+[M][a] -> [Ma] 410
+[Ju][ly ] -> [July ] 411
+[). "][Taylor Swift ] -> [). "Taylor Swift ] 412
+[k][ ] -> [k ] 413
+[er][s] -> [ers] 414
+[]][[] -> [][] 415
+[A][ug] -> [Aug] 416
+[Aug][ust ] -> [August ] 417
+[i][d] -> [id] 418
+[, 202][1] -> [, 2021] 419
+[m][e] -> [me] 420
+[e][p] -> [ep] 421
+[20][1] -> [201] 422
+[2][3] -> [23] 423
+[, 201][2] -> [, 2012] 424
+[e][ar] -> [ear] 425
+[, 20][20] -> [, 2020] 426
+[I][n] -> [In] 427
+[f][i] -> [fi] 428
+[n][e ] -> [ne ] 429
+[Billbo][ard] -> [Billboard] 430
+[ri][t] -> [rit] 431
+[h][i] -> [hi] 432
+[usic][ ] -> [usic ] 433
+[.\u000a ]["] -> [.\u000a "] 434
+[N][ew] -> [New] 435
+[d][i] -> [di] 436
+[A][p] -> [Ap] 437
+[, 201][9] -> [, 2019] 438
+[r][o] -> [ro] 439
+['][ ] -> [' ] 440
+[s][, ] -> [s, ] 441
+[Ju][ne ] -> [June ] 442
+[of][ the ] -> [of the ] 443
+[c][or] -> [cor] 444
+[2][1] -> [21] 445
+[1][9] -> [19] 446
+[i][m] -> [im] 447
+[en][ ] -> [en ] 448
+[eb][r] -> [ebr] 449
+[en][t] -> [ent] 450
+[o][ll] -> [oll] 451
+[M][ar] -> [Mar] 452
+[ri][c] -> [ric] 453
+[wi][th ] -> [with ] 454
+[,][[] -> [,[] 455
+[F][ebr] -> [Febr] 456
+[Febr][uary ] -> [February ] 457
+[Taylor Swift]['s ] -> [Taylor Swift's ] 458
+[". ][Billboard] -> [". Billboard] 459
+[e][a] -> [ea] 460
+[, 201][6] -> [, 2016] 461
+[ep][t] -> [ept] 462
+[Ma][y ] -> [May ] 463
+[, 201][5] -> [, 2015] 464
+[Ap][ri] -> [Apri] 465
+[Apri][l ] -> [April ] 466
+[l][e ] -> [le ] 467
+[A][w] -> [Aw] 468
+[ati][on] -> [ation] 469
+[S][ept] -> [Sept] 470
+[Sept][ember ] -> [September ] 471
+[r][a] -> [ra] 472
+[al][bum] -> [album] 473
+[C][h] -> [Ch] 474
+[v][e ] -> [ve ] 475
+[es][t ] -> [est ] 476
+[J][an] -> [Jan] 477
+[2][2] -> [22] 478
+[Jan][uary ] -> [January ] 479
+[oun][tr] -> [ountr] 480
+[ig][h] -> [igh] 481
+[". ][The ] -> [". The ] 482
+[, 2023][.\u000a ] -> [, 2023.\u000a ] 483
+[1][3] -> [13] 484
+[A][l] -> [Al] 485
+[e][t] -> [et] 486
+[es][s] -> [ess] 487
+[Mar][ch ] -> [March ] 488
+[u][t] -> [ut] 489
+[w][rit] -> [writ] 490
+[l][o] -> [lo] 491
+[s][ong] -> [song] 492
+[�][�] -> [�] 493
+[ar][d ] -> [ard ] 494
+[0][ ] -> [0 ] 495
+[u][l] -> [ul] 496
+[2][4] -> [24] 497
+[i][s ] -> [is ] 498
+[ti][c] -> [tic] 499
+[a][g] -> [ag] 500
+["][ ] -> [" ] 501
+[A][n] -> [An] 502
+[1][8] -> [18] 503
+[f][or] -> [for] 504
+[ountr][y ] -> [ountry ] 505
+[A][me] -> [Ame] 506
+[Ame][ric] -> [Americ] 507
+[ ][T] -> [ T] 508
+[s][ing] -> [sing] 509
+[w][as ] -> [was ] 510
+[1][2] -> [12] 511
+[o][c] -> [oc] 512
+[op][ ] -> [op ] 513
+[1][7] -> [17] 514
+[l][i] -> [li] 515
+[M][usic ] -> [Music ] 516
+[e][, ] -> [e, ] 517
+[1][4] -> [14] 518
+[u][n] -> [un] 519
+[]][\u000a] -> []\u000a] 520
+[New][ ] -> [New ] 521
+[v][i] -> [vi] 522
+[Aw][ard] -> [Award] 523
+[, 20][0] -> [, 200] 524
+[S][he ] -> [She ] 525
+[t][er] -> [ter] 526
+[b][y ] -> [by ] 527
+[s][he ] -> [she ] 528
+[a][i] -> [ai] 529
+[ar][t] -> [art] 530
+[e][ll] -> [ell] 531
+[1][1] -> [11] 532
+[o][t] -> [ot] 533
+[a][b] -> [ab] 534
+[cor][d] -> [cord] 535
+[S][p] -> [Sp] 536
+[y][, ] -> [y, ] 537
+[. Retrieved ][July ] -> [. Retrieved July ] 538
+[. Retrieved ][August ] -> [. Retrieved August ] 539
+[ou][r] -> [our] 540
+[an][d] -> [and] 541
+[, 201][7] -> [, 2017] 542
+[Americ][an ] -> [American ] 543
+[e][e] -> [ee] 544
+[s][u] -> [su] 545
+[] ][and ] -> [] and ] 546
+[1][5] -> [15] 547
+[2][6] -> [26] 548
+[o][g] -> [og] 549
+[e][v] -> [ev] 550
+[2][9] -> [29] 551
+[, 2021][.\u000a ] -> [, 2021.\u000a ] 552
+[W][i] -> [Wi] 553
+[ ][M] -> [ M] 554
+[re][c] -> [rec] 555
+[S][ong] -> [Song] 556
+[2][5] -> [25] 557
+[2][7] -> [27] 558
+[20][0] -> [200] 559
+[St][on] -> [Ston] 560
+[e][i] -> [ei] 561
+[. Retrieved ][December ] -> [. Retrieved December ] 562
+[en][t ] -> [ent ] 563
+[, 2022][.\u000a ] -> [, 2022.\u000a ] 564
+[ou][r ] -> [our ] 565
+[r][st ] -> [rst ] 566
+[o][d] -> [od] 567
+[(][November ] -> [(November ] 568
+[i][on] -> [ion] 569
+[ ][and ] -> [ and ] 570
+[s][s] -> [ss] 571
+[R][oll] -> [Roll] 572
+[". Billboard][. Archived from the original on ] -> [". Billboard. Archived from the original on ] 573
+[id][e] -> [ide] 574
+[en][n] -> [enn] 575
+[e][x] -> [ex] 576
+[er][, ] -> [er, ] 577
+[at][ed ] -> [ated ] 578
+[for][m] -> [form] 579
+[an][c] -> [anc] 580
+[Roll][ing ] -> [Rolling ] 581
+[Rolling ][Ston] -> [Rolling Ston] 582
+[3][0] -> [30] 583
+[. Retrieved ][November ] -> [. Retrieved November ] 584
+[h][a] -> [ha] 585
+["][, ] -> [", ] 586
+[c][on] -> [con] 587
+[p][ ] -> [p ] 588
+[a][in] -> [ain] 589
+[e][d] -> [ed] 590
+[Al][bum] -> [Album] 591
+[ar][ti] -> [arti] 592
+[G][r] -> [Gr] 593
+[i][on ] -> [ion ] 594
+[.[][5] -> [.[5] 595
+[T][im] -> [Tim] 596
+[, 2023][). "] -> [, 2023). "] 597
+[1][6] -> [16] 598
+[ati][on ] -> [ation ] 599
+[en][d] -> [end] 600
+[i][st] -> [ist] 601
+[Swif][t] -> [Swift] 602
+[p][l] -> [pl] 603
+[es][t] -> [est] 604
+[. Retrieved ][February ] -> [. Retrieved February ] 605
+[. Retrieved ][October ] -> [. Retrieved October ] 606
+[c][om] -> [com] 607
+[n][ ] -> [n ] 608
+[on][e ] -> [one ] 609
+[ti][on] -> [tion] 610
+[u][c] -> [uc] 611
+[i][an] -> [ian] 612
+[er][s ] -> [ers ] 613
+[, 202][4] -> [, 2024] 614
+[Billbo][ard ] -> [Billboard ] 615
+[a ][(] -> [a (] 616
+[.[][3] -> [.[3] 617
+[in][ the ] -> [in the ] 618
+[2][8] -> [28] 619
+[ow][ ] -> [ow ] 620
+[.[][4] -> [.[4] 621
+[. Retrieved ][April ] -> [. Retrieved April ] 622
+[�][�] -> [–] 623
+[es][s ] -> [ess ] 624
+[I][s ] -> [Is ] 625
+[h][as ] -> [has ] 626
+[m][y ] -> [my ] 627
+[th][at ] -> [that ] 628
+[, ][J] -> [, J] 629
+[, 201][3] -> [, 2013] 630
+[o][t ] -> [ot ] 631
+[t][s ] -> [ts ] 632
+[of the ][Y] -> [of the Y] 633
+[ea][r ] -> [ear ] 634
+[Rolling Ston][e] -> [Rolling Stone] 635
+[] ][She ] -> [] She ] 636
+[] ][Swift ] -> [] Swift ] 637
+[s][p] -> [sp] 638
+[l][u] -> [lu] 639
+[p][p] -> [pp] 640
+[W][h] -> [Wh] 641
+[on ][the ] -> [on the ] 642
+[In][ ] -> [In ] 643
+[, 201][4] -> [, 2014] 644
+[y ][(] -> [y (] 645
+[m][usic ] -> [music ] 646
+[fi][rst ] -> [first ] 647
+[t][er ] -> [ter ] 648
+[S][h] -> [Sh] 649
+[or][l] -> [orl] 650
+[e ][(] -> [e (] 651
+[". ][Rolling Stone] -> [". Rolling Stone] 652
+[L][i] -> [Li] 653
+[20][23] -> [2023] 654
+[a][k] -> [ak] 655
+[p][h] -> [ph] 656
+[p][r] -> [pr] 657
+[as][h] -> [ash] 658
+[vi][ew] -> [view] 659
+[, 201][8] -> [, 2018] 660
+[m][o] -> [mo] 661
+[Re][cord] -> [Record] 662
+[from][ ] -> [from ] 663
+[i][r] -> [ir] 664
+[T][h] -> [Th] 665
+[.\u000a "][Taylor Swift ] -> [.\u000a "Taylor Swift ] 666
+[". ][C] -> [". C] 667
+[en][c] -> [enc] 668
+[. Retrieved ][May ] -> [. Retrieved May ] 669
+[U][S] -> [US] 670
+[H][er ] -> [Her ] 671
+[, ][and ] -> [, and ] 672
+[le][as] -> [leas] 673
+[A][ll] -> [All] 674
+[m][an] -> [man] 675
+[Wi][th ] -> [With ] 676
+[, 2020][.\u000a ] -> [, 2020.\u000a ] 677
+[Ar][ti] -> [Arti] 678
+[c][ountry ] -> [country ] 679
+[Swift]['s ] -> [Swift's ] 680
+[m][ill] -> [mill] 681
+[. Archived from the original on ][November ] -> [. Archived from the original on November ] 682
+[Re][p] -> [Rep] 683
+[album][ ] -> [album ] 684
+[m][usic] -> [music] 685
+[0][0] -> [00] 686
+[, 2012][.\u000a ] -> [, 2012.\u000a ] 687
+[ide][o ] -> [ideo ] 688
+[a][r ] -> [ar ] 689
+[ed ][the ] -> [ed the ] 690
+[b][e] -> [be] 691
+[ov][er ] -> [over ] 692
+[s ][(] -> [s (] 693
+[s][h] -> [sh] 694
+[New ][Y] -> [New Y] 695
+[New Y][or] -> [New Yor] 696
+[c][ri] -> [cri] 697
+[, 201][0] -> [, 2010] 698
+[. Archived from the original on ][December ] -> [. Archived from the original on December ] 699
+[i][l] -> [il] 700
+[v][ill] -> [vill] 701
+[w][hi] -> [whi] 702
+[th][er ] -> [ther ] 703
+[p][er] -> [per] 704
+[][][3] -> [][3] 705
+[. Retrieved ][September ] -> [. Retrieved September ] 706
+[H][ot ] -> [Hot ] 707
+[f][f] -> [ff] 708
+[ ][S] -> [ S] 709
+[ee][k] -> [eek] 710
+[q][u] -> [qu] 711
+[. Retrieved ][June ] -> [. Retrieved June ] 712
+[, 2022][). "] -> [, 2022). "] 713
+[)][\u000a] -> [)\u000a] 714
+[song][writ] -> [songwrit] 715
+[b][l] -> [bl] 716
+[b][ec] -> [bec] 717
+[re][leas] -> [releas] 718
+[Y][ou] -> [You] 719
+[or][e ] -> [ore ] 720
+[E][r] -> [Er] 721
+[w][h] -> [wh] 722
+[Song][writ] -> [Songwrit] 723
+[er][e ] -> [ere ] 724
+[". ][V] -> [". V] 725
+[8][9] -> [89] 726
+[ed ][by ] -> [ed by ] 727
+[ar][t ] -> [art ] 728
+[o][s] -> [os] 729
+[C][ountry ] -> [Country ] 730
+[, 200][9] -> [, 2009] 731
+[C][on] -> [Con] 732
+[M][usic] -> [Music] 733
+[re][am] -> [ream] 734
+[n][um] -> [num] 735
+[b][er] -> [ber] 736
+[20][20] -> [2020] 737
+[G][re] -> [Gre] 738
+[in][c] -> [inc] 739
+[whi][ch ] -> [which ] 740
+[s ][of ] -> [s of ] 741
+[M][T] -> [MT] 742
+[1][ ] -> [1 ] 743
+[a][st] -> [ast] 744
+[N][ash] -> [Nash] 745
+[Nash][vill] -> [Nashvill] 746
+[ed ][her ] -> [ed her ] 747
+[p][op ] -> [pop ] 748
+[, ][Swift ] -> [, Swift ] 749
+[Gr][am] -> [Gram] 750
+[a][v] -> [av] 751
+[al][l] -> [all] 752
+[is][t ] -> [ist ] 753
+[. Archived from the original on ][October ] -> [. Archived from the original on October ] 754
+[E][n] -> [En] 755
+[A][ ] -> [A ] 756
+[o][o] -> [oo] 757
+[Tayl][or] -> [Taylor] 758
+[am][e ] -> [ame ] 759
+[: ][The ] -> [: The ] 760
+[ti][m] -> [tim] 761
+[a][y ] -> [ay ] 762
+[e][y ] -> [ey ] 763
+[i][v] -> [iv] 764
+[G][u] -> [Gu] 765
+[3][1] -> [31] 766
+[New][s] -> [News] 767
+[t][ur] -> [tur] 768
+[19][89] -> [1989] 769
+[al][e ] -> [ale ] 770
+[W][orl] -> [Worl] 771
+[Gram][my ] -> [Grammy ] 772
+[cor][d ] -> [cord ] 773
+[as ][a ] -> [as a ] 774
+[Ch][ri] -> [Chri] 775
+[ou][t ] -> [out ] 776
+[d][, ] -> [d, ] 777
+[B][est ] -> [Best ] 778
+[, 2016][.\u000a ] -> [, 2016.\u000a ] 779
+[. Archived from the original on ][June ] -> [. Archived from the original on June ] 780
+[ra][ph] -> [raph] 781
+[a][, ] -> [a, ] 782
+[at ][the ] -> [at the ] 783
+[an][i] -> [ani] 784
+[us][tr] -> [ustr] 785
+[E][v] -> [Ev] 786
+[k][e ] -> [ke ] 787
+[Er][as ] -> [Eras ] 788
+[;][ ] -> [; ] 789
+[J][o] -> [Jo] 790
+[, 201][1] -> [, 2011] 791
+[e][". ] -> [e". ] 792
+[p][e] -> [pe] 793
+[y][l] -> [yl] 794
+[B][ig] -> [Big] 795
+[t][, ] -> [t, ] 796
+[T][our ] -> [Tour ] 797
+[m][ ] -> [m ] 798
+[est][-] -> [est-] 799
+[al][l ] -> [all ] 800
+[lo][b] -> [lob] 801
+[of the Y][ear ] -> [of the Year ] 802
+[i][me] -> [ime] 803
+[u][al ] -> [ual ] 804
+[is][h] -> [ish] 805
+[10][0] -> [100] 806
+[e][t ] -> [et ] 807
+[in][n] -> [inn] 808
+[e][g] -> [eg] 809
+[Taylor Swift's ]['] -> [Taylor Swift's '] 810
+[Taylor Swift][, ] -> [Taylor Swift, ] 811
+[at][e ] -> [ate ] 812
+[A][c] -> [Ac] 813
+[es][, ] -> [es, ] 814
+[ac][k ] -> [ack ] 815
+[Rep][ut] -> [Reput] 816
+[Taylor]['s ] -> [Taylor's ] 817
+[c][er] -> [cer] 818
+[e ][of ] -> [e of ] 819
+[ed ][to ] -> [ed to ] 820
+[N][o] -> [No] 821
+[][][5] -> [][5] 822
+[oc][i] -> [oci] 823
+[p][ro] -> [pro] 824
+[Music ][Award] -> [Music Award] 825
+[w][om] -> [wom] 826
+[arti][st] -> [artist] 827
+[W][ill] -> [Will] 828
+[u][r ] -> [ur ] 829
+[em][ale ] -> [emale ] 830
+[F][or] -> [For] 831
+[Album][ ] -> [Album ] 832
+[o][us] -> [ous] 833
+[ar][e ] -> [are ] 834
+[e]['s ] -> [e's ] 835
+[ing][ the ] -> [ing the ] 836
+[an][n] -> [ann] 837
+[. Retrieved ][January ] -> [. Retrieved January ] 838
+[V][ideo ] -> [Video ] 839
+[u][bl] -> [ubl] 840
+[ad][i] -> [adi] 841
+[M][e] -> [Me] 842
+[s ][and ] -> [s and ] 843
+[mill][ion ] -> [million ] 844
+[it][y ] -> [ity ] 845
+[per][form] -> [perform] 846
+[g][h] -> [gh] 847
+[l][y] -> [ly] 848
+[mo][st ] -> [most ] 849
+[,][00] -> [,00] 850
+[W][eek] -> [Week] 851
+[t][e] -> [te] 852
+[. Archived from the original on ][July ] -> [. Archived from the original on July ] 853
+[. Archived from the original on ][September ] -> [. Archived from the original on September ] 854
+[. Archived from the original on ][August ] -> [. Archived from the original on August ] 855
+[s][". ] -> [s". ] 856
+[Tim][es] -> [Times] 857
+[an][g] -> [ang] 858
+[ew][ ] -> [ew ] 859
+[ic][ ] -> [ic ] 860
+[ea][k ] -> [eak ] 861
+[ad][e ] -> [ade ] 862
+[ar][k] -> [ark] 863
+[to][ the ] -> [to the ] 864
+[s][o ] -> [so ] 865
+[I][ ] -> [I ] 866
+[e][f] -> [ef] 867
+[ac][k] -> [ack] 868
+[Aw][ard ] -> [Award ] 869
+[om][in] -> [omin] 870
+[U][n] -> [Un] 871
+[ers][ion] -> [ersion] 872
+[. Archived from the original on ][January ] -> [. Archived from the original on January ] 873
+[, 2023][). "Taylor Swift ] -> [, 2023). "Taylor Swift ] 874
+[, 2019][.\u000a ] -> [, 2019.\u000a ] 875
+[enn][ess] -> [enness] 876
+[ear][l] -> [earl] 877
+[it][s ] -> [its ] 878
+[y][n] -> [yn] 879
+[a][u] -> [au] 880
+[id][n] -> [idn] 881
+[Arti][st ] -> [Artist ] 882
+[ed ][on ] -> [ed on ] 883
+[New Yor][k ] -> [New York ] 884
+[arti][st ] -> [artist ] 885
+[cri][tic] -> [critic] 886
+[4][] ] -> [4] ] 887
+[A][ss] -> [Ass] 888
+[a][h] -> [ah] 889
+[. Archived from the original on ][May ] -> [. Archived from the original on May ] 890
+[No][. ] -> [No. ] 891
+[man][, ] -> [man, ] 892
+[e][at] -> [eat] 893
+[ig][n] -> [ign] 894
+[)][ ] -> [) ] 895
+[o][, ] -> [o, ] 896
+[F][earl] -> [Fearl] 897
+[and ]["] -> [and "] 898
+[f][ter ] -> [fter ] 899
+[h][igh] -> [high] 900
+[the ][first ] -> [the first ] 901
+[5][] ] -> [5] ] 902
+[d][on] -> [don] 903
+[g][est ] -> [gest ] 904
+[u][t ] -> [ut ] 905
+[g][en] -> [gen] 906
+[en][ti] -> [enti] 907
+[igh][t] -> [ight] 908
+[t][y] -> [ty] 909
+[V][ersion] -> [Version] 910
+[, 2019][). "] -> [, 2019). "] 911
+[, 2021][). "] -> [, 2021). "] 912
+[re][e ] -> [ree ] 913
+[s][\u000a] -> [s\u000a] 914
+[T][our] -> [Tour] 915
+[d][uc] -> [duc] 916
+[(][201] -> [(201] 917
+[sing][le ] -> [single ] 918
+[][][4] -> [][4] 919
+[P][e] -> [Pe] 920
+[,[][5] -> [,[5] 921
+[F][i] -> [Fi] 922
+[a][ul] -> [aul] 923
+[a][rie] -> [arie] 924
+[Taylor Swift][: ] -> [Taylor Swift: ] 925
+[di][a ] -> [dia ] 926
+[r][es] -> [res] 927
+[ha][ve ] -> [have ] 928
+[d][es] -> [des] 929
+[album][s ] -> [albums ] 930
+[You][ ] -> [You ] 931
+[a][p] -> [ap] 932
+[Sp][eak ] -> [Speak ] 933
+[Speak ][N] -> [Speak N] 934
+[in ][201] -> [in 201] 935
+[For][b] -> [Forb] 936
+[M][o] -> [Mo] 937
+[lu][d] -> [lud] 938
+[ic][k] -> [ick] 939
+[] ][In ] -> [] In ] 940
+[Nashvill][e ] -> [Nashville ] 941
+[o][-] -> [o-] 942
+[R][o] -> [Ro] 943
+[oun][d] -> [ound] 944
+[, 200][8] -> [, 2008] 945
+[for ][the ] -> [for the ] 946
+[,00][0 ] -> [,000 ] 947
+[T][r] -> [Tr] 948
+[Taylor's ][Version] -> [Taylor's Version] 949
+[M][c] -> [Mc] 950
+[–][ ] -> [– ] 951
+[og][raph] -> [ograph] 952
+[in][d] -> [ind] 953
+[p][op] -> [pop] 954
+[a][d ] -> [ad ] 955
+[l][es ] -> [les ] 956
+[10][0 ] -> [100 ] 957
+[t][ing ] -> [ting ] 958
+[", ]["] -> [", "] 959
+[B][lo] -> [Blo] 960
+[er][m] -> [erm] 961
+[re][cord] -> [record] 962
+[G][lob] -> [Glob] 963
+[inc][lud] -> [includ] 964
+[el][p] -> [elp] 965
+[,[][4] -> [,[4] 966
+[ai][d ] -> [aid ] 967
+[w][on ] -> [won ] 968
+[Ass][oci] -> [Associ] 969
+[An][n] -> [Ann] 970
+[fi][el] -> [fiel] 971
+[or][y ] -> [ory ] 972
+[n][ew ] -> [new ] 973
+[as][s] -> [ass] 974
+[Ch][art ] -> [Chart ] 975
+[ ][News] -> [ News] 976
+[, 2016][. Retrieved August ] -> [, 2016. Retrieved August ] 977
+[Taylor Swift][". ] -> [Taylor Swift". ] 978
+[H][ow ] -> [How ] 979
+[S][ing] -> [Sing] 980
+[in][e ] -> [ine ] 981
+[st][ream] -> [stream] 982
+[M][idn] -> [Midn] 983
+[a][w] -> [aw] 984
+[ro][ss] -> [ross] 985
+[or][e] -> [ore] 986
+[.[][6] -> [.[6] 987
+[C][ar] -> [Car] 988
+[y][ear] -> [year] 989
+[s ][to ] -> [s to ] 990
+[wi][th] -> [with] 991
+[�][�] -> [—] 992
+[t][ain] -> [tain] 993
+[T][ime] -> [Time] 994
+[ra][is] -> [rais] 995
+[a][ri] -> [ari] 996
+[. Archived from the original on ][March ] -> [. Archived from the original on March ] 997
+[(][October ] -> [(October ] 998
+[ (][October ] -> [ (October ] 999
+[(][December ] -> [(December ] 1000
+[fiel][d, ] -> [field, ] 1001
+[s][ec] -> [sec] 1002
+[is][c] -> [isc] 1003
+[or][y] -> [ory] 1004
+[s][e] -> [se] 1005
+[\u000a][Swift ] -> [\u000aSwift ] 1006
+[P][op ] -> [Pop ] 1007
+[g][u] -> [gu] 1008
+[u][di] -> [udi] 1009
+[L][ov] -> [Lov] 1010
+[ong][ ] -> [ong ] 1011
+[l][an] -> [lan] 1012
+[ol][k] -> [olk] 1013
+[fi][l] -> [fil] 1014
+[bec][ame ] -> [became ] 1015
+[w][or] -> [wor] 1016
+[8][] ] -> [8] ] 1017
+[al][so ] -> [also ] 1018
+[ ]["] -> [ "] 1019
+[t][e ] -> [te ] 1020
+[200][9] -> [2009] 1021
+[K][ei] -> [Kei] 1022
+[. Retrieved ][March ] -> [. Retrieved March ] 1023
+[, 2015][.\u000a ] -> [, 2015.\u000a ] 1024
+[c][ar] -> [car] 1025
+[er][-] -> [er-] 1026
+[pro][duc] -> [produc] 1027
+[di][rec] -> [direc] 1028
+[om][e ] -> [ome ] 1029
+[20][10] -> [2010] 1030
+[20][22] -> [2022] 1031
+[All][ T] -> [All T] 1032
+[to][ur ] -> [tour ] 1033
+[20][21] -> [2021] 1034
+[20][0 ] -> [200 ] 1035
+[of ][her ] -> [of her ] 1036
+[r][e ] -> [re ] 1037
+[f][u] -> [fu] 1038
+[s][.[] -> [s.[] 1039
+[d][e] -> [de] 1040
+[t][w] -> [tw] 1041
+[with][ the ] -> [with the ] 1042
+[ow][n] -> [own] 1043
+[9][] ] -> [9] ] 1044
+[Hot ][100] -> [Hot 100] 1045
+[to][p ] -> [top ] 1046
+[Kei][th ] -> [Keith ] 1047
+[o][st] -> [ost] 1048
+[Re][view] -> [Review] 1049
+[an][k] -> [ank] 1050
+[, 2020][). "Taylor Swift ] -> [, 2020). "Taylor Swift ] 1051
+[". V][arie] -> [". Varie] 1052
+[". Varie][ty] -> [". Variety] 1053
+[Wi][k] -> [Wik] 1054
+[su][b] -> [sub] 1055
+[E][x] -> [Ex] 1056
+[ag][e ] -> [age ] 1057
+[T][enness] -> [Tenness] 1058
+[olk][l] -> [olkl] 1059
+[y][. ] -> [y. ] 1060
+[In][ter] -> [Inter] 1061
+[of the Y][ear] -> [of the Year] 1062
+[Forb][es] -> [Forbes] 1063
+[S][c] -> [Sc] 1064
+[H][ar] -> [Har] 1065
+[ol][d] -> [old] 1066
+[0][] ] -> [0] ] 1067
+[, ][she ] -> [, she ] 1068
+[ou][s ] -> [ous ] 1069
+[An][g] -> [Ang] 1070
+[num][ber ] -> [number ] 1071
+[m][ore ] -> [more ] 1072
+[ac][t ] -> [act ] 1073
+[to][p] -> [top] 1074
+[Worl][d ] -> [World ] 1075
+[f][ ] -> [f ] 1076
+[B][o] -> [Bo] 1077
+[B][r] -> [Br] 1078
+[Gu][ard] -> [Guard] 1079
+[Ch][art] -> [Chart] 1080
+[B][C] -> [BC] 1081
+[p][. ] -> [p. ] 1082
+[. Archived from the original on ][February ] -> [. Archived from the original on February ] 1083
+[Pe][op] -> [Peop] 1084
+[�][�] -> [•] 1085
+[n][ot] -> [not] 1086
+[ec][t] -> [ect] 1087
+[v][e] -> [ve] 1088
+[u][re] -> [ure] 1089
+[s][i] -> [si] 1090
+[udi][o ] -> [udio ] 1091
+[un][d] -> [und] 1092
+[con][cer] -> [concer] 1093
+[f][emale ] -> [female ] 1094
+[a][pp] -> [app] 1095
+[al][i] -> [ali] 1096
+[ing ][to ] -> [ing to ] 1097
+[B][ri] -> [Bri] 1098
+[anc][e ] -> [ance ] 1099
+[7][] ] -> [7] ] 1100
+["][ (] -> [" (] 1101
+[p][or] -> [por] 1102
+[rec][ei] -> [recei] 1103
+[A][m] -> [Am] 1104
+[P][r] -> [Pr] 1105
+[, ][M] -> [, M] 1106
+[, 2024][.\u000a ] -> [, 2024.\u000a ] 1107
+[". C][MT] -> [". CMT] 1108
+[, 2012][.\u000a "] -> [, 2012.\u000a "] 1109
+[No. ][1 ] -> [No. 1 ] 1110
+[, 2020][). "] -> [, 2020). "] 1111
+[ers][on] -> [erson] 1112
+[e][e ] -> [ee ] 1113
+[V][ ] -> [V ] 1114
+[in][f] -> [inf] 1115
+[s ][in ] -> [s in ] 1116
+[201][4] -> [2014] 1117
+[F][olkl] -> [Folkl] 1118
+[high][est-] -> [highest-] 1119
+[Record][ing ] -> [Recording ] 1120
+[st][-] -> [st-] 1121
+[Grammy ][Award] -> [Grammy Award] 1122
+[at][t] -> [att] 1123
+[ad][em] -> [adem] 1124
+[v][oc] -> [voc] 1125
+[i][e ] -> [ie ] 1126
+[ing ][her ] -> [ing her ] 1127
+[ou][gh] -> [ough] 1128
+[s ][for ] -> [s for ] 1129
+[th][an ] -> [than ] 1130
+[w][ere ] -> [were ] 1131
+[T][op ] -> [Top ] 1132
+[i][z] -> [iz] 1133
+[a][z] -> [az] 1134
+[s][e ] -> [se ] 1135
+[, ][A] -> [, A] 1136
+[i][al ] -> [ial ] 1137
+[t][or] -> [tor] 1138
+[Re][cord ] -> [Record ] 1139
+[D][ai] -> [Dai] 1140
+[, ][L] -> [, L] 1141
+[". The ][Guard] -> [". The Guard] 1142
+[". The Guard][ian] -> [". The Guardian] 1143
+[, 2017][.\u000a ] -> [, 2017.\u000a ] 1144
+[, ][S] -> [, S] 1145
+[c][l] -> [cl] 1146
+[Arti][st] -> [Artist] 1147
+[us][in] -> [usin] 1148
+[gu][it] -> [guit] 1149
+[Big][ ] -> [Big ] 1150
+[Fearl][ess ] -> [Fearless ] 1151
+[Speak N][ow] -> [Speak Now] 1152
+[R][ed ] -> [Red ] 1153
+[g][ross] -> [gross] 1154
+[Songwrit][ers ] -> [Songwriters ] 1155
+[W][om] -> [Wom] 1156
+[re][cord ] -> [record ] 1157
+[1][] ] -> [1] ] 1158
+[i][t ] -> [it ] 1159
+[of][f] -> [off] 1160
+[&][ ] -> [& ] 1161
+[song][ ] -> [song ] 1162
+[s ][at ] -> [s at ] 1163
+[m][ak] -> [mak] 1164
+[B][re] -> [Bre] 1165
+[2][] ] -> [2] ] 1166
+[ed ][that ] -> [ed that ] 1167
+[6][] ] -> [6] ] 1168
+[t][an] -> [tan] 1169
+[C][ri] -> [Cri] 1170
+[ay][s ] -> [ays ] 1171
+[igh][t ] -> [ight ] 1172
+[st][ar] -> [star] 1173
+[L][o] -> [Lo] 1174
+['][t ] -> ['t ] 1175
+[Reput][ation] -> [Reputation] 1176
+[). "][Taylor Swift's ] -> [). "Taylor Swift's ] 1177
+[. Archived from the original on ][April ] -> [. Archived from the original on April ] 1178
+[". ][N] -> [". N] 1179
+[(][March ] -> [(March ] 1180
+[". The ][New York ] -> [". The New York ] 1181
+[em][ent] -> [ement] 1182
+[, ][P] -> [, P] 1183
+[Y][ear] -> [Year] 1184
+[th][er] -> [ther] 1185
+[s][hi] -> [shi] 1186
+[ed ][with ] -> [ed with ] 1187
+[sing][les ] -> [singles ] 1188
+[ber][-] -> [ber-] 1189
+[pp][or] -> [ppor] 1190
+[O][ff] -> [Off] 1191
+[Wh][at ] -> [What ] 1192
+[igh][ts ] -> [ights ] 1193
+[Eras ][Tour ] -> [Eras Tour ] 1194
+[ev][er] -> [ever] 1195
+[on][d ] -> [ond ] 1196
+[w][orl] -> [worl] 1197
+[am][ed ] -> [amed ] 1198
+[ation][al ] -> [ational ] 1199
+[P][h] -> [Ph] 1200
+[al][es ] -> [ales ] 1201
+[ur][ing ] -> [uring ] 1202
+[Sp][o] -> [Spo] 1203
+[com][m] -> [comm] 1204
+[an][s] -> [ans] 1205
+[A][t ] -> [At ] 1206
+[ed ][in ] -> [ed in ] 1207
+[y ][P] -> [y P] 1208
+[k][ing ] -> [king ] 1209
+[ei][r ] -> [eir ] 1210
+[m][ent ] -> [ment ] 1211
+[ic][e ] -> [ice ] 1212
+[tw][o ] -> [two ] 1213
+[th][r] -> [thr] 1214
+[ti][ve ] -> [tive ] 1215
+[c][o-] -> [co-] 1216
+[Ang][el] -> [Angel] 1217
+[at][es ] -> [ates ] 1218
+[al][ly ] -> [ally ] 1219
+[ow][n ] -> [own ] 1220
+[a][ch] -> [ach] 1221
+[ti][on ] -> [tion ] 1222
+[or][g] -> [org] 1223
+[10][ ] -> [10 ] 1224
+[En][ter] -> [Enter] 1225
+[Enter][tain] -> [Entertain] 1226
+[c][c] -> [cc] 1227
+[Taylor's Version][)] -> [Taylor's Version)] 1228
+[eb][ut] -> [ebut] 1229
+[, ][p. ] -> [, p. ] 1230
+[ (][November ] -> [ (November ] 1231
+[Will][man, ] -> [Willman, ] 1232
+[Willman, ][Chri] -> [Willman, Chri] 1233
+[, 2009][). "] -> [, 2009). "] 1234
+[H][ist] -> [Hist] 1235
+[No. 1 ][on ] -> [No. 1 on ] 1236
+[". The New York ][Times] -> [". The New York Times] 1237
+[Fi][rst ] -> [First ] 1238
+[C][aul] -> [Caul] 1239
+[Caul][field, ] -> [Caulfield, ] 1240
+[Caulfield, ][Keith ] -> [Caulfield, Keith ] 1241
+[car][e] -> [care] 1242
+[u][s ] -> [us ] 1243
+[u][p] -> [up] 1244
+[ll][ ] -> [ll ] 1245
+[um][ent] -> [ument] 1246
+[Ma][ch] -> [Mach] 1247
+[th][is ] -> [this ] 1248
+[inf][lu] -> [influ] 1249
+[ec][t ] -> [ect ] 1250
+[num][ber-] -> [number-] 1251
+[ch][art] -> [chart] 1252
+[song][s ] -> [songs ] 1253
+[I][t ] -> [It ] 1254
+[Reput][ation ] -> [Reputation ] 1255
+[Ev][erm] -> [Everm] 1256
+[an][y] -> [any] 1257
+[be][en ] -> [been ] 1258
+[Glob][al ] -> [Global ] 1259
+[op][en] -> [open] 1260
+[Spo][ti] -> [Spoti] 1261
+[Spoti][f] -> [Spotif] 1262
+[ers][on ] -> [erson ] 1263
+[Worl][d] -> [World] 1264
+[E][m] -> [Em] 1265
+[oo][d ] -> [ood ] 1266
+[c][ent] -> [cent] 1267
+[l][at] -> [lat] 1268
+[d][o] -> [do] 1269
+[r][em] -> [rem] 1270
+[New Yor][k] -> [New York] 1271
+[3][] ] -> [3] ] 1272
+[,[][3] -> [,[3] 1273
+[ed ][Swift ] -> [ed Swift ] 1274
+[US][ ] -> [US ] 1275
+[el][ ] -> [el ] 1276
+[s][' ] -> [s' ] 1277
+[Billboard ][200 ] -> [Billboard 200 ] 1278
+[our][n] -> [ourn] 1279
+[Re][d] -> [Red] 1280
+[it][al ] -> [ital ] 1281
+[B][e] -> [Be] 1282
+[Lo][s ] -> [Los ] 1283
+[Los ][Angel] -> [Los Angel] 1284
+[Los Angel][es ] -> [Los Angeles ] 1285
+[recei][ved ] -> [received ] 1286
+[et][s ] -> [ets ] 1287
+[en][, ] -> [en, ] 1288
+["][.[3] -> [".[3] 1289
+[re][view] -> [review] 1290
+[C][om] -> [Com] 1291
+[don][ated ] -> [donated ] 1292
+[(][July ] -> [(July ] 1293
+[D][e] -> [De] 1294
+[G][ary ] -> [Gary ] 1295
+[•][ "] -> [• "] 1296
+[F][il] -> [Fil] 1297
+[es][\u000a] -> [es\u000a] 1298
+[Re][ad] -> [Read] 1299
+[enn][s] -> [enns] 1300
+[enns][yl] -> [ennsyl] 1301
+[ennsyl][v] -> [ennsylv] 1302
+[ennsylv][ani] -> [ennsylvani] 1303
+[wom][an ] -> [woman ] 1304
+[ide][o] -> [ideo] 1305
+[g][r] -> [gr] 1306
+[li][st] -> [list] 1307
+[ro][c] -> [roc] 1308
+[ess][ion] -> [ession] 1309
+[ ][to ] -> [ to ] 1310
+[x][ ] -> [x ] 1311
+[st][udio ] -> [studio ] 1312
+[f][our ] -> [four ] 1313
+[f][eat] -> [feat] 1314
+[number-][one ] -> [number-one ] 1315
+[a][fter ] -> [after ] 1316
+[concer][t ] -> [concert ] 1317
+[music][ian] -> [musician] 1318
+[s][ol] -> [sol] 1319
+[201][9] -> [2019] 1320
+[In][d] -> [Ind] 1321
+[Gre][at] -> [Great] 1322
+[Billboard]['s ] -> [Billboard's ] 1323
+[American ][Music Award] -> [American Music Award] 1324
+[l][d] -> [ld] 1325
+[An][d] -> [And] 1326
+[]\u000a][Swift ] -> []\u000aSwift ] 1327
+[ha][d ] -> [had ] 1328
+[H][igh] -> [High] 1329
+[Ac][adem] -> [Academ] 1330
+["][.[] -> [".[] 1331
+[D][i] -> [Di] 1332
+[n][e] -> [ne] 1333
+[and ][the ] -> [and the ] 1334
+[ustr][y ] -> [ustry ] 1335
+[w][ro] -> [wro] 1336
+[tr][ack] -> [track] 1337
+[l][d ] -> [ld ] 1338
+[Award ][for ] -> [Award for ] 1339
+[n][omin] -> [nomin] 1340
+[M][ov] -> [Mov] 1341
+[;][[] -> [;[] 1342
+[su][cc] -> [succ] 1343
+[2023][ ] -> [2023 ] 1344
+[rit][y ] -> [rity ] 1345
+[cri][b] -> [crib] 1346
+[: ][Taylor Swift ] -> [: Taylor Swift ] 1347
+[M][E] -> [ME] 1348
+[wom][en ] -> [women ] 1349
+[(][June ] -> [(June ] 1350
+[C][ountr] -> [Countr] 1351
+[us][t, ] -> [ust, ] 1352
+[ust, ][Gary ] -> [ust, Gary ] 1353
+[in][s ] -> [ins ] 1354
+[, ][K] -> [, K] 1355
+[Peop][le] -> [People] 1356
+[(][January ] -> [(January ] 1357
+[, 2022][. Retrieved October ] -> [, 2022. Retrieved October ] 1358
+[s][American ] -> [sAmerican ] 1359
+[di][a] -> [dia] 1360
+[ac][c] -> [acc] 1361
+[ul][tur] -> [ultur] 1362
+[V ][Video ] -> [V Video ] 1363
+[er-][songwrit] -> [er-songwrit] 1364
+[pr][es] -> [pres] 1365
+[in][e] -> [ine] 1366
+[me][dia ] -> [media ] 1367
+[s][ign] -> [sign] 1368
+[200][8] -> [2008] 1369
+[" ][and "] -> [" and "] 1370
+[m][ent] -> [ment] 1371
+[A][fter ] -> [After ] 1372
+[Midn][ights ] -> [Midnights ] 1373
+[o ][W] -> [o W] 1374
+[ti][v] -> [tiv] 1375
+[p][le ] -> [ple ] 1376
+[Mo][st ] -> [Most ] 1377
+[P][ow] -> [Pow] 1378
+[fu][l ] -> [ful ] 1379
+[y][oun] -> [youn] 1380
+[M][on] -> [Mon] 1381
+[m][ade ] -> [made ] 1382
+[ab][out ] -> [about ] 1383
+[ing ][a ] -> [ing a ] 1384
+[h][elp] -> [help] 1385
+[ed ][a ] -> [ed a ] 1386
+[R][os] -> [Ros] 1387
+[p][ubl] -> [publ] 1388
+[o][ther ] -> [other ] 1389
+[A][s ] -> [As ] 1390
+[in][to ] -> [into ] 1391
+[oll][ow] -> [ollow] 1392
+[as][t ] -> [ast ] 1393
+[v][ideo ] -> [video ] 1394
+[9][7] -> [97] 1395
+[t][en ] -> [ten ] 1396
+[w][e] -> [we] 1397
+[H][as ] -> [Has ] 1398
+[l][and] -> [land] 1399
+[201][8] -> [2018] 1400
+[ti][es ] -> [ties ] 1401
+[F][am] -> [Fam] 1402
+[it][ch] -> [itch] 1403
+[p][rais] -> [prais] 1404
+[s][ur] -> [sur] 1405
+[iv][ers] -> [ivers] 1406
+[p][ri] -> [pri] 1407
+[s][id] -> [sid] 1408
+[Eras ][Tour] -> [Eras Tour] 1409
+[gen][er] -> [gener] 1410
+[des][crib] -> [describ] 1411
+[ist ][of ] -> [ist of ] 1412
+[i][f] -> [if] 1413
+[Wh][y ] -> [Why ] 1414
+[, J][o] -> [, Jo] 1415
+[Dai][ly ] -> [Daily ] 1416
+[, 2015][). "] -> [, 2015). "] 1417
+[, 2012][). "Taylor Swift ] -> [, 2012). "Taylor Swift ] 1418
+[, 2012][). "] -> [, 2012). "] 1419
+[. Retrieved July ][1] -> [. Retrieved July 1] 1420
+[BC][ News] -> [BC News] 1421
+[, 2017][). "] -> [, 2017). "] 1422
+[. Retrieved February ][14] -> [. Retrieved February 14] 1423
+[Tr][ust, Gary ] -> [Trust, Gary ] 1424
+[A][ T] -> [A T] 1425
+[od][ay] -> [oday] 1426
+[, 2019][). "Taylor Swift ] -> [, 2019). "Taylor Swift ] 1427
+[, 2023][.\u000a "] -> [, 2023.\u000a "] 1428
+[, 2022.\u000a ][S] -> [, 2022.\u000a S] 1429
+[f][e ] -> [fe ] 1430
+[T][og] -> [Tog] 1431
+[isc][ograph] -> [iscograph] 1432
+[F][rom] -> [From] 1433
+[album][, ] -> [album, ] 1434
+[in ][a ] -> [in a ] 1435
+[influ][enc] -> [influenc] 1436
+[is ][a ] -> [is a ] 1437
+[p][re] -> [pre] 1438
+[l][ab] -> [lab] 1439
+[su][ppor] -> [suppor] 1440
+[s][c] -> [sc] 1441
+[single ]["] -> [single "] 1442
+[L][over ] -> [Lover ] 1443
+[2020][ ] -> [2020 ] 1444
+[H][er] -> [Her] 1445
+[com][p] -> [comp] 1446
+[fil][m ] -> [film ] 1447
+[worl][d] -> [world] 1448
+[s][ell] -> [sell] 1449
+[Great][est ] -> [Greatest ] 1450
+[ennsylvani][a] -> [ennsylvania] 1451
+[L][yn] -> [Lyn] 1452
+[ac][t] -> [act] 1453
+[an][t ] -> [ant ] 1454
+[I][t] -> [It] 1455
+[hi][s ] -> [his ] 1456
+[.[][24] -> [.[24] 1457
+[et][ter ] -> [etter ] 1458
+[y][ear ] -> [year ] 1459
+[ M][c] -> [ Mc] 1460
+[c][all] -> [call] 1461
+[pe][op] -> [peop] 1462
+[: ]["] -> [: "] 1463
+[n][ing ] -> [ning ] 1464
+[s][. ] -> [s. ] 1465
+[e][-] -> [e-] 1466
+[wro][te ] -> [wrote ] 1467
+[h][on] -> [hon] 1468
+[ra][w] -> [raw] 1469
+[C][oll] -> [Coll] 1470
+[includ][ing ] -> [including ] 1471
+[F][emale ] -> [Female ] 1472
+[Ann][ual ] -> [Annual ] 1473
+[it][e ] -> [ite ] 1474
+[A][ustr] -> [Austr] 1475
+[At ][the ] -> [At the ] 1476
+[m][on] -> [mon] 1477
+[ig][ital ] -> [igital ] 1478
+[o][k] -> [ok] 1479
+[u][d] -> [ud] 1480
+[Un][ivers] -> [Univers] 1481
+[em][o] -> [emo] 1482
+[P][ubl] -> [Publ] 1483
+[au][l ] -> [aul ] 1484
+[Mc][C] -> [McC] 1485
+[ati][ve ] -> [ative ] 1486
+[ourn][al] -> [ournal] 1487
+[ill][ion ] -> [illion ] 1488
+[A][b] -> [Ab] 1489
+[. ][September ] -> [. September ] 1490
+[, 2011][). "] -> [, 2011). "] 1491
+['][". ] -> ['". ] 1492
+[, 2010][). "] -> [, 2010). "] 1493
+[P][ost] -> [Post] 1494
+[Willman, Chri][s (] -> [Willman, Chris (] 1495
+[". ][Forbes] -> [". Forbes] 1496
+[. ][December ] -> [. December ] 1497
+[(][August ] -> [(August ] 1498
+[L][e] -> [Le] 1499
+[D][ebut] -> [Debut] 1500
+[, 2018][). "] -> [, 2018). "] 1501
+[8][, 2023.\u000a ] -> [8, 2023.\u000a ] 1502
+[ultur][al ] -> [ultural ] 1503
+[ter][n] -> [tern] 1504
+[l][in] -> [lin] 1505
+[hi][st] -> [hist] 1506
+[F][or ] -> [For ] 1507
+[st][r] -> [str] 1508
+[al][s ] -> [als ] 1509
+[b][an] -> [ban] 1510
+[s, ][and ] -> [s, and ] 1511
+[St][ory] -> [Story] 1512
+[e][. ] -> [e. ] 1513
+[Hot ][100 ] -> [Hot 100 ] 1514
+[D][o] -> [Do] 1515
+[Record][s ] -> [Records ] 1516
+[tic][ ] -> [tic ] 1517
+[O][v] -> [Ov] 1518
+[became ][the ] -> [became the ] 1519
+[highest-][gross] -> [highest-gross] 1520
+[highest-gross][ing ] -> [highest-grossing ] 1521
+[th][ree ] -> [three ] 1522
+[w][eek] -> [week] 1523
+[as ][the ] -> [as the ] 1524
+[a][in ] -> [ain ] 1525
+[f][e] -> [fe] 1526
+[Sc][ot] -> [Scot] 1527
+[t][on] -> [ton] 1528
+[wh][o ] -> [who ] 1529
+[F][r] -> [Fr] 1530
+[k][s ] -> [ks ] 1531
+[oun][d ] -> [ound ] 1532
+[d][ay] -> [day] 1533
+[i][an ] -> [ian ] 1534
+[th][eir ] -> [their ] 1535
+[T][o ] -> [To ] 1536
+[b][ut ] -> [but ] 1537
+[pl][ay] -> [play] 1538
+[p][rom] -> [prom] 1539
+[s][aid ] -> [said ] 1540
+[k][n] -> [kn] 1541
+[i][p] -> [ip] 1542
+[Songwrit][er] -> [Songwriter] 1543
+[5][0] -> [50] 1544
+[Cri][tic] -> [Critic] 1545
+[Critic][s ] -> [Critics ] 1546
+[Austr][ali] -> [Australi] 1547
+[any][e ] -> [anye ] 1548
+[ed ]["] -> [ed "] 1549
+[Associ][ation ] -> [Association ] 1550
+[h][n] -> [hn] 1551
+[Ro][b] -> [Rob] 1552
+[201][2] -> [2012] 1553
+[G][old] -> [Gold] 1554
+[O][n ] -> [On ] 1555
+[ ][million ] -> [ million ] 1556
+[ation][s ] -> [ations ] 1557
+[D][on] -> [Don] 1558
+[1989][ ] -> [1989 ] 1559
+[v][ing ] -> [ving ] 1560
+[artist][s ] -> [artists ] 1561
+[ab][or] -> [abor] 1562
+[adi][um] -> [adium] 1563
+[ly][ric] -> [lyric] 1564
+[M][A ] -> [MA ] 1565
+[for ][her ] -> [for her ] 1566
+[Q][u] -> [Qu] 1567
+[li][ke ] -> [like ] 1568
+[Taylor Swift ][is ] -> [Taylor Swift is ] 1569
+[P][ro] -> [Pro] 1570
+[, ][N] -> [, N] 1571
+[ch][a] -> [cha] 1572
+[, 2014][). "Taylor Swift ] -> [, 2014). "Taylor Swift ] 1573
+[. ][November ] -> [. November ] 1574
+[, 200][7] -> [, 2007] 1575
+[Week][ly] -> [Weekly] 1576
+[, 2014][). "] -> [, 2014). "] 1577
+['][M] -> ['M] 1578
+[. ][October ] -> [. October ] 1579
+[W][inn] -> [Winn] 1580
+[s, ][R] -> [s, R] 1581
+[US][A T] -> [USA T] 1582
+[USA T][oday] -> [USA Today] 1583
+[, 2018][.\u000a ] -> [, 2018.\u000a ] 1584
+[Big][gest ] -> [Biggest ] 1585
+[, 2023). "][Taylor Swift's '] -> [, 2023). "Taylor Swift's '] 1586
+[, 2022][). "Taylor Swift ] -> [, 2022). "Taylor Swift ] 1587
+[le][y, ] -> [ley, ] 1588
+[, 2023). "][The ] -> [, 2023). "The ] 1589
+[as ][of ] -> [as of ] 1590
+[\u000a][\u000a] -> [\u000a\u000a] 1591
+[r][y] -> [ry] 1592
+[e][al] -> [eal] 1593
+[Fil][m] -> [Film] 1594
+[o][ot] -> [oot] 1595
+[o][ol] -> [ool] 1596
+[From][ ] -> [From ] 1597
+[ M][T] -> [ MT] 1598
+[V Video ][Music Award] -> [V Video Music Award] 1599
+[us][t] -> [ust] 1600
+[G][en] -> [Gen] 1601
+[Big ][Mach] -> [Big Mach] 1602
+[at][a] -> [ata] 1603
+[sing][er-songwrit] -> [singer-songwrit] 1604
+[v][ers] -> [vers] 1605
+[ul][t] -> [ult] 1606
+[be][g] -> [beg] 1607
+[beg][an ] -> [began ] 1608
+[th][em] -> [them] 1609
+[c][at] -> [cat] 1610
+[sp][ir] -> [spir] 1611
+[All T][o] -> [All To] 1612
+[All To][o W] -> [All Too W] 1613
+[All Too W][ell] -> [All Too Well] 1614
+[ch ][as ] -> [ch as ] 1615
+[s][ales ] -> [sales ] 1616
+[Ap][ple ] -> [Apple ] 1617
+[for ][a ] -> [for a ] 1618
+[et][ing ] -> [eting ] 1619
+[er][n] -> [ern] 1620
+[oo][l ] -> [ool ] 1621
+[e ][in ] -> [e in ] 1622
+[c][al ] -> [cal ] 1623
+[F][ai] -> [Fai] 1624
+[.]["] -> [."] 1625
+[s][ch] -> [sch] 1626
+[re][l] -> [rel] 1627
+[is][ion ] -> [ision ] 1628
+[3][][] -> [3][] 1629
+[g][o] -> [go] 1630
+[to][ur] -> [tour] 1631
+[et][t] -> [ett] 1632
+[releas][ed on ] -> [released on ] 1633
+[enc][e ] -> [ence ] 1634
+[is][m] -> [ism] 1635
+[artist ][to ] -> [artist to ] 1636
+[op][i] -> [opi] 1637
+[opi][es ] -> [opies ] 1638
+[Billboard ][Hot 100] -> [Billboard Hot 100] 1639
+[,[][6] -> [,[6] 1640
+[Nashville ][Songwriters ] -> [Nashville Songwriters ] 1641
+[Associ][ation] -> [Association] 1642
+[J][on] -> [Jon] 1643
+[s][ound] -> [sound] 1644
+[in the ][US] -> [in the US] 1645
+[for ]["] -> [for "] 1646
+[K][anye ] -> [Kanye ] 1647
+[P][er] -> [Per] 1648
+[ear][t] -> [eart] 1649
+[con][t] -> [cont] 1650
+[ri][b] -> [rib] 1651
+[e][.[] -> [e.[] 1652
+[Wom][an ] -> [Woman ] 1653
+[v][es ] -> [ves ] 1654
+[201][6] -> [2016] 1655
+[C][al] -> [Cal] 1656
+[re][d] -> [red] 1657
+[T][om] -> [Tom] 1658
+[D][a] -> [Da] 1659
+[Everm][ore] -> [Evermore] 1660
+[emo][tion] -> [emotion] 1661
+[Lov][er] -> [Lover] 1662
+[C][at] -> [Cat] 1663
+[or][y (] -> [ory (] 1664
+[the ][most ] -> [the most ] 1665
+[B][usin] -> [Busin] 1666
+[d][g] -> [dg] 1667
+[st][e] -> [ste] 1668
+[L][ist of ] -> [List of ] 1669
+[P][R] -> [PR] 1670
+[t][on ] -> [ton ] 1671
+[Tim][e ] -> [Time ] 1672
+[Bre][ak] -> [Break] 1673
+[St][ar ] -> [Star ] 1674
+[B][rit] -> [Brit] 1675
+[B][l] -> [Bl] 1676
+[T][el] -> [Tel] 1677
+[MT][V] -> [MTV] 1678
+[ (][July ] -> [ (July ] 1679
+[Inter][view] -> [Interview] 1680
+[, 2023][. Retrieved December ] -> [, 2023. Retrieved December ] 1681
+[Entertain][ment ] -> [Entertainment ] 1682
+[B][ec] -> [Bec] 1683
+[. Retrieved February 14][, 2021.\u000a ] -> [. Retrieved February 14, 2021.\u000a ] 1684
+[, 2020][.\u000a "] -> [, 2020.\u000a "] 1685
+[Blo][g] -> [Blog] 1686
+[(][September ] -> [(September ] 1687
+[a ][(November ] -> [a (November ] 1688
+[ (][August ] -> [ (August ] 1689
+[ (][December ] -> [ (December ] 1690
+[ (][March ] -> [ (March ] 1691
+[(][April ] -> [(April ] 1692
+[Los Angeles ][Times] -> [Los Angeles Times] 1693
+['][: ] -> [': ] 1694
+[Debut][s at ] -> [Debuts at ] 1695
+[y][". ] -> [y". ] 1696
+[. Retrieved June ][30] -> [. Retrieved June 30] 1697
+[Wik][i] -> [Wiki] 1698
+[ar][tic] -> [artic] 1699
+[T][op] -> [Top] 1700
+[care][er ] -> [career ] 1701
+[f][er] -> [fer] 1702
+[ MT][V Video Music Award] -> [ MTV Video Music Award] 1703
+[1989][ (] -> [1989 (] 1704
+[W][est ] -> [West ] 1705
+[F][in] -> [Fin] 1706
+[O][ri] -> [Ori] 1707
+[roc][k ] -> [rock ] 1708
+[j][ect ] -> [ject ] 1709
+[ov][er] -> [over] 1710
+[lab][el] -> [label] 1711
+[)][, ] -> [), ] 1712
+[ex][pl] -> [expl] 1713
+[Lov][e ] -> [Love ] 1714
+[pe][ri] -> [peri] 1715
+[ec][tr] -> [ectr] 1716
+[B][ack ] -> [Back ] 1717
+[ed by ][the ] -> [ed by the ] 1718
+[in][spir] -> [inspir] 1719
+[)][ and ] -> [) and ] 1720
+[d][u] -> [du] 1721
+[re][-] -> [re-] 1722
+[ti][-] -> [ti-] 1723
+[res][p] -> [resp] 1724
+[ed ][s] -> [ed s] 1725
+[fil][m] -> [film] 1726
+[or][t ] -> [ort ] 1727
+[O][ne ] -> [One ] 1728
+[sell][ing ] -> [selling ] 1729
+[has ][been ] -> [has been ] 1730
+[n][amed ] -> [named ] 1731
+[E][ar] -> [Ear] 1732
+[k][ed ] -> [ked ] 1733
+[m][ark] -> [mark] 1734
+[g][l] -> [gl] 1735
+[s][ti] -> [sti] 1736
+[is][s] -> [iss] 1737
+[in][ter] -> [inter] 1738
+[m][ov] -> [mov] 1739
+[es ][of ] -> [es of ] 1740
+[a][us] -> [aus] 1741
+[wh][at ] -> [what ] 1742
+[ur][e ] -> [ure ] 1743
+[9][] and ] -> [9] and ] 1744
+[An][d ] -> [And ] 1745
+[200][7] -> [2007] 1746
+[prom][ot] -> [promot] 1747
+[enti][on ] -> [ention ] 1748
+[eb][ut ] -> [ebut ] 1749
+[t][ell] -> [tell] 1750
+["][.[5] -> [".[5] 1751
+[at ][number ] -> [at number ] 1752
+[fi][ve ] -> [five ] 1753
+[ch][art ] -> [chart ] 1754
+[2][]\u000a] -> [2]\u000a] 1755
+[c][opies ] -> [copies ] 1756
+[ou][ld ] -> [ould ] 1757
+[em][ent ] -> [ement ] 1758
+[O][ur ] -> [Our ] 1759
+[All][ ] -> [All ] 1760
+[ex][t] -> [ext] 1761
+[G][e] -> [Ge] 1762
+[Ge][org] -> [Georg] 1763
+[y ][of ] -> [y of ] 1764
+[] and ][the ] -> [] and the ] 1765
+[Jo][e ] -> [Joe ] 1766
+[H][ann] -> [Hann] 1767
+[Hann][ah] -> [Hannah] 1768
+[con][tr] -> [contr] 1769
+[3][] Swift ] -> [3] Swift ] 1770
+[U][r] -> [Ur] 1771
+[st][ar ] -> [star ] 1772
+[L][a] -> [La] 1773
+[top][ the ] -> [top the ] 1774
+[Rolling Ston][e ] -> [Rolling Stone ] 1775
+[aw][ard] -> [award] 1776
+[)][,[] -> [),[] 1777
+[O][p] -> [Op] 1778
+[Gold][en ] -> [Golden ] 1779
+[ear][n] -> [earn] 1780
+[f][th ] -> [fth ] 1781
+[v][o] -> [vo] 1782
+[f][an] -> [fan] 1783
+[v][ic] -> [vic] 1784
+[In][c] -> [Inc] 1785
+[oun][c] -> [ounc] 1786
+[C][l] -> [Cl] 1787
+[St][adium] -> [Stadium] 1788
+[Stadium][ T] -> [Stadium T] 1789
+[it][ed ] -> [ited ] 1790
+[s][ex] -> [sex] 1791
+[l][ight] -> [light] 1792
+[p][ass] -> [pass] 1793
+[m][ast] -> [mast] 1794
+[ers][, ] -> [ers, ] 1795
+[perform][anc] -> [performanc] 1796
+[g][lob] -> [glob] 1797
+[I][s] -> [Is] 1798
+[Midn][ight] -> [Midnight] 1799
+[V][ideo] -> [Video] 1800
+[critic][s ] -> [critics ] 1801
+[ee][k ] -> [eek ] 1802
+[b][r] -> [br] 1803
+[l][ist ] -> [list ] 1804
+[$][1 ] -> [$1 ] 1805
+[s][: ] -> [s: ] 1806
+[o][x] -> [ox] 1807
+[id][enti] -> [identi] 1808
+[p][os] -> [pos] 1809
+[6][0] -> [60] 1810
+[cent][ur] -> [centur] 1811
+[direc][tor] -> [director] 1812
+[H][all ] -> [Hall ] 1813
+[mill][enn] -> [millenn] 1814
+[peop][le ] -> [people ] 1815
+[el][eb] -> [eleb] 1816
+[W][at] -> [Wat] 1817
+[w][inn] -> [winn] 1818
+[, 2015][). "Taylor Swift ] -> [, 2015). "Taylor Swift ] 1819
+[: ]['] -> [: '] 1820
+[". The ][Daily ] -> [". The Daily ] 1821
+[". The Daily ][Tel] -> [". The Daily Tel] 1822
+[". The Daily Tel][eg] -> [". The Daily Teleg] 1823
+[". The Daily Teleg][raph] -> [". The Daily Telegraph] 1824
+[. ][May ] -> [. May ] 1825
+[b][ur] -> [bur] 1826
+[. ][July ] -> [. July ] 1827
+[(][February ] -> [(February ] 1828
+[, 2012][. Retrieved May ] -> [, 2012. Retrieved May ] 1829
+[, 2015][.\u000a "] -> [, 2015.\u000a "] 1830
+[". ][B] -> [". B] 1831
+[le][y (] -> [ley (] 1832
+[, 2012][.\u000a "Taylor Swift ] -> [, 2012.\u000a "Taylor Swift ] 1833
+[. Retrieved July ][5] -> [. Retrieved July 5] 1834
+[O][n] -> [On] 1835
+[Blog][). ] -> [Blog). ] 1836
+[". ][People] -> [". People] 1837
+[a][, J] -> [a, J] 1838
+[Ma][k] -> [Mak] 1839
+[, 2021][. Retrieved November ] -> [, 2021. Retrieved November ] 1840
+['][". Rolling Stone] -> ['". Rolling Stone] 1841
+[a (][October ] -> [a (October ] 1842
+[Off][ic] -> [Offic] 1843
+[". Billboard. Archived from the original on ][November ] -> [". Billboard. Archived from the original on November ] 1844
+[S][o ] -> [So ] 1845
+[. Retrieved August ][23] -> [. Retrieved August 23] 1846
+[18][, 2023] -> [18, 2023] 1847
+[9][, 2021] -> [9, 2021] 1848
+[". Billboard][. Retrieved January ] -> [". Billboard. Retrieved January ] 1849
+[P][ennsylvania] -> [Pennsylvania] 1850
+[American ][women ] -> [American women ] 1851
+[erson][al ] -> [ersonal ] 1852
+[es ][and ] -> [es and ] 1853
+[y][\u000a] -> [y\u000a] 1854
+[is][on ] -> [ison ] 1855
+[direc][t] -> [direct] 1856
+[W][or] -> [Wor] 1857
+[ust][in ] -> [ustin ] 1858
+[b][ro] -> [bro] 1859
+[f][ol] -> [fol] 1860
+[or][s] -> [ors] 1861
+[E][di] -> [Edi] 1862
+[Wik][id] -> [Wikid] 1863
+[Wikid][ata] -> [Wikidata] 1864
+[Wikidata][\u000a] -> [Wikidata\u000a] 1865
+[en][e] -> [ene] 1866
+[pop][ul] -> [popul] 1867
+[ag][e] -> [age] 1868
+[r][adi] -> [radi] 1869
+[You ][B] -> [You B] 1870
+[You B][el] -> [You Bel] 1871
+[You Bel][ong ] -> [You Belong ] 1872
+[m][ain] -> [main] 1873
+[Ar][e ] -> [Are ] 1874
+[ev][er ] -> [ever ] 1875
+[to][pp] -> [topp] 1876
+[", ][and "] -> [", and "] 1877
+[B][ad ] -> [Bad ] 1878
+[st][yl] -> [styl] 1879
+[d][is] -> [dis] 1880
+[ut][e ] -> [ute ] 1881
+[Ov][er ] -> [Over ] 1882
+[su][ch as ] -> [such as ] 1883
+[Artist ][of the Year ] -> [Artist of the Year ] 1884
+[Spotif][y ] -> [Spotify ] 1885
+[P][erson ] -> [Person ] 1886
+[of ][All T] -> [of All T] 1887
+[Album ][of the Year ] -> [Album of the Year ] 1888
+[P][ri] -> [Pri] 1889
+[tim][e ] -> [time ] 1890
+[Swift ][was ] -> [Swift was ] 1891
+[Lyn][ch] -> [Lynch] 1892
+[g][er ] -> [ger ] 1893
+[re][at] -> [reat] 1894
+[P][hi] -> [Phi] 1895
+[am][p] -> [amp] 1896
+[s ][on ] -> [s on ] 1897
+[ S][ch] -> [ Sch] 1898
+[.[][18] -> [.[18] 1899
+[music][al ] -> [musical ] 1900
+[re][g] -> [reg] 1901
+[voc][al ] -> [vocal ] 1902
+[T][w] -> [Tw] 1903
+[j][ust ] -> [just ] 1904
+[el][ev] -> [elev] 1905
+[D][oll] -> [Doll] 1906
+[to ][b] -> [to b] 1907
+[."][[] -> [."[] 1908
+[she ][was ] -> [she was ] 1909
+[ug][h] -> [ugh] 1910
+[her ][first ] -> [her first ] 1911
+[writ][e ] -> [write ] 1912
+[m][od] -> [mod] 1913
+[el][p ] -> [elp ] 1914
+[country ][music ] -> [country music ] 1915
+[thr][ough] -> [through] 1916
+[d][ay ] -> [day ] 1917
+[b][le ] -> [ble ] 1918
+[youn][gest ] -> [youngest ] 1919
+[S][on] -> [Son] 1920
+[el][y ] -> [ely ] 1921
+[ind][ustry ] -> [industry ] 1922
+[ep][end] -> [epend] 1923
+[an][y ] -> [any ] 1924
+[.[][23] -> [.[23] 1925
+[Bri][an ] -> [Brian ] 1926
+[te][en] -> [teen] 1927
+[p][ea] -> [pea] 1928
+[fi][ed ] -> [fied ] 1929
+[Tim][ Mc] -> [Tim Mc] 1930
+[Tim Mc][G] -> [Tim McG] 1931
+[Tim McG][raw] -> [Tim McGraw] 1932
+[", ][which ] -> [", which ] 1933
+[with ][a ] -> [with a ] 1934
+[pl][ac] -> [plac] 1935
+[ric][ ] -> [ric ] 1936
+[T][e] -> [Te] 1937
+[M][y ] -> [My ] 1938
+[Country ][Song] -> [Country Song] 1939
+[re][ach] -> [reach] 1940
+[Award for ][Best ] -> [Award for Best ] 1941
+[Annual ][Grammy Award] -> [Annual Grammy Award] 1942
+[studio ][album, ] -> [studio album, ] 1943
+[es][s, ] -> [ess, ] 1944
+[ ][in ] -> [ in ] 1945
+[World ][Tour ] -> [World Tour ] 1946
+[Video ][of the Year ] -> [Video of the Year ] 1947
+[s, ][Swift ] -> [s, Swift ] 1948
+[6][] and ] -> [6] and ] 1949
+[om][e] -> [ome] 1950
+[C][an] -> [Can] 1951
+[j][o] -> [jo] 1952
+[Speak N][ow ] -> [Speak Now ] 1953
+[ent][er] -> [enter] 1954
+[a][top the ] -> [atop the ] 1955
+[8][0] -> [80] 1956
+[Song][ ] -> [Song ] 1957
+[Golden ][Glob] -> [Golden Glob] 1958
+[A][g] -> [Ag] 1959
+[Ev][er] -> [Ever] 1960
+[th][ing ] -> [thing ] 1961
+[Ch][ang] -> [Chang] 1962
+[201][3] -> [2013] 1963
+[ac][le ] -> [acle ] 1964
+[s][k] -> [sk] 1965
+[201][5] -> [2015] 1966
+[in][v] -> [inv] 1967
+[s][er] -> [ser] 1968
+[tur][n] -> [turn] 1969
+[201][7] -> [2017] 1970
+[Reputation ][Stadium T] -> [Reputation Stadium T] 1971
+[ber][g] -> [berg] 1972
+[ ][K] -> [ K] 1973
+[vi][d ] -> [vid ] 1974
+[.[][19] -> [.[19] 1975
+[E][d ] -> [Ed ] 1976
+[e][er] -> [eer] 1977
+[n][ey ] -> [ney ] 1978
+[V][o] -> [Vo] 1979
+[er][ed ] -> [ered ] 1980
+[Publ][ish] -> [Publish] 1981
+[am][ ] -> [am ] 1982
+[end][er ] -> [ender ] 1983
+[es ][(] -> [es (] 1984
+[H][a] -> [Ha] 1985
+[C][hi] -> [Chi] 1986
+[wi][t] -> [wit] 1987
+[y]['s ] -> [y's ] 1988
+[McC][art] -> [McCart] 1989
+[y][le ] -> [yle ] 1990
+[pos][i] -> [posi] 1991
+[ed ][as ] -> [ed as ] 1992
+[ing][s ] -> [ings ] 1993
+[4][0] -> [40] 1994
+[P][itch] -> [Pitch] 1995
+[Pitch][for] -> [Pitchfor] 1996
+[ur][ther ] -> [urther ] 1997
+[from][ T] -> [from T] 1998
+[shi][p] -> [ship] 1999
+[J][ournal] -> [Journal] 2000
+[iscograph][y ] -> [iscography ] 2001
+[Gu][inn] -> [Guinn] 2002
+[Guinn][ess ] -> [Guinness ] 2003
+[Hall ][of ] -> [Hall of ] 2004
+[4][6] -> [46] 2005
+[R][I] -> [RI] 2006
+[ut][z] -> [utz] 2007
+[U][p ] -> [Up ] 2008
+[Tenness][ee ] -> [Tennessee ] 2009
+[ea][d ] -> [ead ] 2010
+[.[5][9] -> [.[59] 2011
+[$][100] -> [$100] 2012
+[$100][,000 ] -> [$100,000 ] 2013
+[Taylor Swift][: The ] -> [Taylor Swift: The ] 2014
+[ T][h] -> [ Th] 2015
+[ (][May ] -> [ (May ] 2016
+[y][ou] -> [you] 2017
+[, 2016][. Retrieved July ] -> [, 2016. Retrieved July ] 2018
+[, 2017][). "Taylor Swift ] -> [, 2017). "Taylor Swift ] 2019
+[e (][October ] -> [e (October ] 2020
+[". ][E] -> [". E] 2021
+[. ][January ] -> [. January ] 2022
+[ (][February ] -> [ (February ] 2023
+[, 2008][). "] -> [, 2008). "] 2024
+[, 2012][. Retrieved April ] -> [, 2012. Retrieved April ] 2025
+[T][ast] -> [Tast] 2026
+[Tast][e of ] -> [Taste of ] 2027
+[Taste of ][Countr] -> [Taste of Countr] 2028
+[le][x] -> [lex] 2029
+[i][e] -> [ie] 2030
+[, 2010][.\u000a ] -> [, 2010.\u000a ] 2031
+[s ][: ] -> [s : ] 2032
+[. Retrieved July 1][, 2012.\u000a ] -> [. Retrieved July 1, 2012.\u000a ] 2033
+[Entertainment ][Weekly] -> [Entertainment Weekly] 2034
+[i][cha] -> [icha] 2035
+[". Billboard. Archived from the original on ][July ] -> [". Billboard. Archived from the original on July ] 2036
+[, 2013][). "] -> [, 2013). "] 2037
+[Gre][at ] -> [Great ] 2038
+[. ][June ] -> [. June ] 2039
+[a (][August ] -> [a (August ] 2040
+[". ][Los Angeles Times] -> [". Los Angeles Times] 2041
+[winn][ers] -> [winners] 2042
+[(][May ] -> [(May ] 2043
+[A][t] -> [At] 2044
+[E][l] -> [El] 2045
+[ (][September ] -> [ (September ] 2046
+[. Retrieved October ][30] -> [. Retrieved October 30] 2047
+[Debuts at ][No. 1 on ] -> [Debuts at No. 1 on ] 2048
+[, 2023). "][Taylor Swift's ] -> [, 2023). "Taylor Swift's ] 2049
+[, 2022). "][Taylor Swift's ] -> [, 2022). "Taylor Swift's ] 2050
+[How ][Taylor Swift ] -> [How Taylor Swift ] 2051
+[, 2023.\u000a ][K] -> [, 2023.\u000a K] 2052
+[N][ ] -> [N ] 2053
+[. Retrieved April ][8, 2023.\u000a ] -> [. Retrieved April 8, 2023.\u000a ] 2054
+[. Retrieved June 30][, 2023.\u000a ] -> [. Retrieved June 30, 2023.\u000a ] 2055
+[I][S] -> [IS] 2056
+[ari][st] -> [arist] 2057
+[Wiki][pe] -> [Wikipe] 2058
+[ent][s ] -> [ents ] 2059
+[st][at] -> [stat] 2060
+[6][ ] -> [6 ] 2061
+[our][c] -> [ourc] 2062
+[Taylor Swift][\u000a] -> [Taylor Swift\u000a] 2063
+[b][usin] -> [busin] 2064
+[tr][ess] -> [tress] 2065
+[Tenness][e] -> [Tennesse] 2066
+[fol][k ] -> [folk ] 2067
+[.][com] -> [.com] 2068
+[Edi][t ] -> [Edit ] 2069
+[Edit ][this ] -> [Edit this ] 2070
+[Edit this ][at ] -> [Edit this at ] 2071
+[Edit this at ][Wikidata\u000a] -> [Edit this at Wikidata\u000a] 2072
+[ult][ure] -> [ulture] 2073
+[pr][of] -> [prof] 2074
+[songwrit][ing ] -> [songwriting ] 2075
+[Big Mach][ine ] -> [Big Machine ] 2076
+[. ][She ] -> [. She ] 2077
+[Fearless ][(] -> [Fearless (] 2078
+[f][am] -> [fam] 2079
+[Tog][e] -> [Toge] 2080
+[th][-] -> [th-] 2081
+[suppor][t] -> [support] 2082
+[S][ha] -> [Sha] 2083
+[Bad ][Blo] -> [Bad Blo] 2084
+[Bad Blo][od] -> [Bad Blood] 2085
+[b][i] -> [bi] 2086
+[oc][ument] -> [ocument] 2087
+[is][s ] -> [iss ] 2088
+[Folkl][ore ] -> [Folklore ] 2089
+[re-][record] -> [re-record] 2090
+[es][e ] -> [ese ] 2091
+["][C] -> ["C] 2092
+[r][u] -> [ru] 2093
+[um][m] -> [umm] 2094
+[20][24] -> [2024] 2095
+[est-][selling ] -> [est-selling ] 2096
+[Inter][n] -> [Intern] 2097
+[is ][the ] -> [is the ] 2098
+[Apple ][Music] -> [Apple Music] 2099
+[im][e ] -> [ime ] 2100
+[app][ear] -> [appear] 2101
+[World]['s ] -> [World's ] 2102
+[chi][ld] -> [child] 2103
+[am][es ] -> [ames ] 2104
+[f][a] -> [fa] 2105
+[th][er, ] -> [ther, ] 2106
+[And][re] -> [Andre] 2107
+[En][gl] -> [Engl] 2108
+[Engl][ish] -> [English] 2109
+[7][][] -> [7][] 2110
+[ur][ch] -> [urch] 2111
+[un][ ] -> [un ] 2112
+[tr][ans] -> [trans] 2113
+[i][ly ] -> [ily ] 2114
+[n][i] -> [ni] 2115
+[perform][ing ] -> [performing ] 2116
+[Doll][y P] -> [Dolly P] 2117
+[Dolly P][art] -> [Dolly Part] 2118
+[ed][, ] -> [ed, ] 2119
+[an][t] -> [ant] 2120
+[s][el] -> [sel] 2121
+[w][ay ] -> [way ] 2122
+[ff][er] -> [ffer] 2123
+[.[][27] -> [.[27] 2124
+[p][ar] -> [par] 2125
+[t][al] -> [tal] 2126
+[y][m] -> [ym] 2127
+[St][ar] -> [Star] 2128
+[sh][ow] -> [show] 2129
+[b][re] -> [bre] 2130
+[b][etter ] -> [better ] 2131
+[][3][7] -> [][37] 2132
+[Li][z] -> [Liz] 2133
+[B][ra] -> [Bra] 2134
+[open][ed ] -> [opened ] 2135
+[u][tive ] -> [utive ] 2136
+[.[4][5] -> [.[45] 2137
+[in][e's ] -> [ine's ] 2138
+[ak][e ] -> [ake ] 2139
+[Billboard ][200] -> [Billboard 200] 2140
+[end][ing ] -> [ending ] 2141
+[w][ould ] -> [would ] 2142
+[ol][d ] -> [old ] 2143
+[en][s] -> [ens] 2144
+[e ][S] -> [e S] 2145
+[ag][ain] -> [again] 2146
+[d][ated ] -> [dated ] 2147
+[Fearl][ess] -> [Fearless] 2148
+[ M][on] -> [ Mon] 2149
+[sec][ond ] -> [second ] 2150
+[ab][le ] -> [able ] 2151
+[sing][ers] -> [singers] 2152
+[number ][one ] -> [number one ] 2153
+[.[][8] -> [.[8] 2154
+[, ][the ] -> [, the ] 2155
+[W][est] -> [West] 2156
+[Per][form] -> [Perform] 2157
+[D][ay] -> [Day] 2158
+[ol][og] -> [olog] 2159
+[d][igital ] -> [digital ] 2160
+[u][p ] -> [up ] 2161
+[ory ][of ] -> [ory of ] 2162
+[se][qu] -> [sequ] 2163
+[.[][1] -> [.[1] 2164
+[f][ollow] -> [follow] 2165
+[li][ve ] -> [live ] 2166
+[. ]["] -> [. "] 2167
+[Ori][ginal ] -> [Original ] 2168
+[f][our] -> [four] 2169
+[.[][13] -> [.[13] 2170
+[1][.] -> [1.] 2171
+[fi][fth ] -> [fifth ] 2172
+[ol][e ] -> [ole ] 2173
+[it][y] -> [ity] 2174
+[the first ][woman ] -> [the first woman ] 2175
+[y][le] -> [yle] 2176
+[0 ][million ] -> [0 million ] 2177
+[al][og] -> [alog] 2178
+[o][d ] -> [od ] 2179
+[Li][ve ] -> [Live ] 2180
+[Har][ri] -> [Harri] 2181
+[s ][from ] -> [s from ] 2182
+[cl][a] -> [cla] 2183
+[id][d] -> [idd] 2184
+[MA ][Award] -> [MA Award] 2185
+[t][y ] -> [ty ] 2186
+[in][form] -> [inform] 2187
+[A][M] -> [AM] 2188
+[Univers][al ] -> [Universal ] 2189
+[of the ][Dec] -> [of the Dec] 2190
+[more ][than ] -> [more than ] 2191
+[ch][ang] -> [chang] 2192
+[2][] and ] -> [2] and ] 2193
+[N][o ] -> [No ] 2194
+[Re][-] -> [Re-] 2195
+[P][o] -> [Po] 2196
+[ou][t] -> [out] 2197
+[c][ultural ] -> [cultural ] 2198
+[Busin][ess ] -> [Business ] 2199
+[b][ig] -> [big] 2200
+[Recording ][Academ] -> [Recording Academ] 2201
+[tion][s] -> [tions] 2202
+[on][d] -> [ond] 2203
+[M][ ] -> [M ] 2204
+[m][i] -> [mi] 2205
+[p][ow] -> [pow] 2206
+[h][ow ] -> [how ] 2207
+[ri][gh] -> [righ] 2208
+[it][er] -> [iter] 2209
+[d][omin] -> [domin] 2210
+[es][p] -> [esp] 2211
+[I][c] -> [Ic] 2212
+[er ][of ] -> [er of ] 2213
+[al][ity ] -> [ality ] 2214
+[] She ][has ] -> [] She has ] 2215
+[n]['t ] -> [n't ] 2216
+[)][,[4] -> [),[4] 2217
+[Guinness ][World ] -> [Guinness World ] 2218
+[Hall of ][Fam] -> [Hall of Fam] 2219
+[P][oll] -> [Poll] 2220
+[All][-] -> [All-] 2221
+[t][s] -> [ts] 2222
+[millenn][ial ] -> [millennial ] 2223
+[M][at] -> [Mat] 2224
+[S][am] -> [Sam] 2225
+[lan][thr] -> [lanthr] 2226
+[lanthr][op] -> [lanthrop] 2227
+[li][ef] -> [lief] 2228
+[)\u000a][The ] -> [)\u000aThe ] 2229
+[N][amed ] -> [Named ] 2230
+[, 2022][. Retrieved December ] -> [, 2022. Retrieved December ] 2231
+[Gr][ad] -> [Grad] 2232
+[". The ][New York] -> [". The New York] 2233
+[". The New York][er] -> [". The New Yorker] 2234
+[, 2015][. Retrieved April ] -> [, 2015. Retrieved April ] 2235
+[Ph][o] -> [Pho] 2236
+[, 2013][.\u000a ] -> [, 2013.\u000a ] 2237
+[e (][December ] -> [e (December ] 2238
+[, 2016][). "Taylor Swift ] -> [, 2016). "Taylor Swift ] 2239
+[Brit][tan] -> [Brittan] 2240
+[Ab][out ] -> [About ] 2241
+['][I ] -> ['I ] 2242
+[, 2016. Retrieved August ][3] -> [, 2016. Retrieved August 3] 2243
+[, 2016. Retrieved August 3][, 2016.\u000a ] -> [, 2016. Retrieved August 3, 2016.\u000a ] 2244
+[In][sid] -> [Insid] 2245
+[H][i] -> [Hi] 2246
+[, 2015][. Retrieved November ] -> [, 2015. Retrieved November ] 2247
+[ (][April ] -> [ (April ] 2248
+[11][, 2015.\u000a ] -> [11, 2015.\u000a ] 2249
+[, 2019][. Retrieved June ] -> [, 2019. Retrieved June ] 2250
+[". Billboard. Archived from the original on ][August ] -> [". Billboard. Archived from the original on August ] 2251
+[. Archived from the original on November ][13] -> [. Archived from the original on November 13] 2252
+[w][ood ] -> [wood ] 2253
+[ ][– ] -> [ – ] 2254
+[an][, ] -> [an, ] 2255
+[, 2016. Retrieved August ][2] -> [, 2016. Retrieved August 2] 2256
+[, 2009][). "Taylor Swift ] -> [, 2009). "Taylor Swift ] 2257
+[Chart ][Hist] -> [Chart Hist] 2258
+[Wat][ch ] -> [Watch ] 2259
+[, 2015][. Retrieved June ] -> [, 2015. Retrieved June ] 2260
+[. Retrieved May ][15] -> [. Retrieved May 15] 2261
+[s, ][D] -> [s, D] 2262
+[s][". Rolling Stone] -> [s". Rolling Stone] 2263
+[Mak][es ] -> [Makes ] 2264
+[. Archived from the original on October ][21] -> [. Archived from the original on October 21] 2265
+[St][e] -> [Ste] 2266
+[s][on] -> [son] 2267
+[—][ ] -> [— ] 2268
+[, 2013][. Retrieved August ] -> [, 2013. Retrieved August ] 2269
+[Offic][ial ] -> [Official ] 2270
+[". N][PR] -> [". NPR] 2271
+[U][.] -> [U.] 2272
+[s ][(November ] -> [s (November ] 2273
+[. Archived from the original on July ][12] -> [. Archived from the original on July 12] 2274
+[Is ][the ] -> [Is the ] 2275
+[De][ad] -> [Dead] 2276
+[Con][st] -> [Const] 2277
+[". V][ox] -> [". Vox] 2278
+[St][ream] -> [Stream] 2279
+[, 2018][). "Taylor Swift ] -> [, 2018). "Taylor Swift ] 2280
+[Music][ian] -> [Musician] 2281
+[a (][December ] -> [a (December ] 2282
+[Pitchfor][k] -> [Pitchfork] 2283
+[, 2024][). "Taylor Swift ] -> [, 2024). "Taylor Swift ] 2284
+[, 2024][). "] -> [, 2024). "] 2285
+[y ][(November ] -> [y (November ] 2286
+[P][op] -> [Pop] 2287
+[19][, 2023.\u000a ] -> [19, 2023.\u000a ] 2288
+[. Retrieved May ][13] -> [. Retrieved May 13] 2289
+[. Retrieved July 5][, 2023.\u000a ] -> [. Retrieved July 5, 2023.\u000a ] 2290
+[8][-] -> [8-] 2291
+[21][st-] -> [21st-] 2292
+[21st-][centur] -> [21st-centur] 2293
+[21st-centur][y ] -> [21st-century ] 2294
+[from T][enness] -> [from Tenness] 2295
+[from Tenness][ee] -> [from Tennessee] 2296
+[oun][t] -> [ount] 2297
+[fe ][and ] -> [fe and ] 2298
+[g][le ] -> [gle ] 2299
+[r][y ] -> [ry ] 2300
+[ol][ad] -> [olad] 2301
+[s][o] -> [so] 2302
+[\u000a][F] -> [\u000aF] 2303
+[T][al] -> [Tal] 2304
+[oc][k] -> [ock] 2305
+[Al][ison ] -> [Alison ] 2306
+[busin][ess] -> [business] 2307
+[Nashvill][e, ] -> [Nashville, ] 2308
+[V][oc] -> [Voc] 2309
+[guit][ar ] -> [guitar ] 2310
+[u][k] -> [uk] 2311
+[S][ign] -> [Sign] 2312
+[shi][p ] -> [ship ] 2313
+[p][ol] -> [pol] 2314
+[i][tic] -> [itic] 2315
+[bec][ome ] -> [become ] 2316
+[releas][ed ] -> [released ] 2317
+[You Belong ][with ] -> [You Belong with ] 2318
+[You Belong with ][Me] -> [You Belong with Me] 2319
+[ed ][Swift's ] -> [ed Swift's ] 2320
+[et][ting ] -> [etting ] 2321
+[ep][art] -> [epart] 2322
+[Me][dia ] -> [Media ] 2323
+[d][ocument] -> [document] 2324
+[iss ][Americ] -> [iss Americ] 2325
+[iss Americ][an] -> [iss American] 2326
+[or][e, ] -> [ore, ] 2327
+[ti][t] -> [tit] 2328
+[ard][ig] -> [ardig] 2329
+[ardig][an] -> [ardigan] 2330
+[ti][me] -> [time] 2331
+[ec][tiv] -> [ectiv] 2332
+[ever][al ] -> [everal ] 2333
+[Folkl][ore] -> [Folklore] 2334
+[S][ession] -> [Session] 2335
+[Sh][ort ] -> [Short ] 2336
+[Short ][Film] -> [Short Film] 2337
+[er][e] -> [ere] 2338
+[mo][st-] -> [most-] 2339
+[b][ill] -> [bill] 2340
+[ion][ai] -> [ionai] 2341
+[Em][my ] -> [Emmy ] 2342
+[4][0 ] -> [40 ] 2343
+[2][] She ] -> [2] She ] 2344
+[ex][ec] -> [exec] 2345
+[English][ ] -> [English ] 2346
+[es ][in ] -> [es in ] 2347
+[9][][] -> [9][] 2348
+[ear][ly ] -> [early ] 2349
+[i][a ] -> [ia ] 2350
+[S][ch] -> [Sch] 2351
+[C][ity ] -> [City ] 2352
+[s, ][which ] -> [s, which ] 2353
+[H][ill] -> [Hill] 2354
+[with ][her ] -> [with her ] 2355
+[Dolly Part][on ] -> [Dolly Parton ] 2356
+[] She ][was ] -> [] She was ] 2357
+[d][o ] -> [do ] 2358
+[to b][e ] -> [to be ] 2359
+[year][s ] -> [years ] 2360
+[music][ian ] -> [musician ] 2361
+[b][as] -> [bas] 2362
+[C][D] -> [CD] 2363
+[mak][ing ] -> [making ] 2364
+[h][elp ] -> [help ] 2365
+[wor][k] -> [work] 2366
+[all][y, ] -> [ally, ] 2367
+[ar][r] -> [arr] 2368
+[B][ro] -> [Bro] 2369
+[rel][ation] -> [relation] 2370
+[writ][ing ] -> [writing ] 2371
+[s ]["] -> [s "] 2372
+[a ][c] -> [a c] 2373
+[with the ][most ] -> [with the most ] 2374
+[A][T] -> [AT] 2375
+[artist][s] -> [artists] 2376
+[th][ey ] -> [they ] 2377
+[a ][m] -> [a m] 2378
+[ir][d ] -> [ird ] 2379
+[3][] and ] -> [3] and ] 2380
+[d][ebut ] -> [debut ] 2381
+[a][than ] -> [athan ] 2382
+[O][r] -> [Or] 2383
+[was ][released on ] -> [was released on ] 2384
+[N][e] -> [Ne] 2385
+[pea][ked ] -> [peaked ] 2386
+[cer][ti] -> [certi] 2387
+[le][ad ] -> [lead ] 2388
+[f][lo] -> [flo] 2389
+[R][as] -> [Ras] 2390
+[Ras][cal ] -> [Rascal ] 2391
+[Rascal ][F] -> [Rascal F] 2392
+[year][-] -> [year-] 2393
+[ous][ly ] -> [ously ] 2394
+[P][ic] -> [Pic] 2395
+[Hot ][Country Song] -> [Hot Country Song] 2396
+[.[5][7] -> [.[57] 2397
+[one ][of the ] -> [one of the ] 2398
+[Country ][Music ] -> [Country Music ] 2399
+[]][ the ] -> [] the ] 2400
+[av][ori] -> [avori] 2401
+[avori][te ] -> [avorite ] 2402
+[hon][or] -> [honor] 2403
+[7][0] -> [70] 2404
+[1][][] -> [1][] 2405
+[Americ][a] -> [America] 2406
+[n][er] -> [ner] 2407
+[H][or] -> [Hor] 2408
+[7][8] -> [78] 2409
+[top][-] -> [top-] 2410
+[mill][ion] -> [million] 2411
+[Ur][ban] -> [Urban] 2412
+[music ][video ] -> [music video ] 2413
+[Th][at ] -> [That ] 2414
+[n][am] -> [nam] 2415
+[not][e ] -> [note ] 2416
+[Jo][hn] -> [John] 2417
+[" ][and ] -> [" and ] 2418
+[Li][ke ] -> [Like ] 2419
+[Th][an ] -> [Than ] 2420
+[9][5] -> [95] 2421
+[Al][w] -> [Alw] 2422
+[Sh][ef] -> [Shef] 2423
+[in the ][top ] -> [in the top ] 2424
+[201][1] -> [2011] 2425
+[W][rit] -> [Writ] 2426
+[W][ere ] -> [Were ] 2427
+[U][K] -> [UK] 2428
+[k][, ] -> [k, ] 2429
+[pr][ov] -> [prov] 2430
+[em][in] -> [emin] 2431
+[publ][ic] -> [public] 2432
+[I][m] -> [Im] 2433
+[I][ts ] -> [Its ] 2434
+[id][es ] -> [ides ] 2435
+[critic][iz] -> [criticiz] 2436
+[stream][ing ] -> [streaming ] 2437
+[ic][k ] -> [ick ] 2438
+[M][us] -> [Mus] 2439
+[e][um] -> [eum] 2440
+[in ][her ] -> [in her ] 2441
+[Bri][t ] -> [Brit ] 2442
+[Coll][abor] -> [Collabor] 2443
+[l][ing ] -> [ling ] 2444
+[Reputation Stadium T][our ] -> [Reputation Stadium Tour ] 2445
+[R][i] -> [Ri] 2446
+[M][an] -> [Man] 2447
+[succ][ess] -> [success] 2448
+[Da][vid ] -> [David ] 2449
+[s][oci] -> [soci] 2450
+[Wh][it] -> [Whit] 2451
+[H][ous] -> [Hous] 2452
+[hist][ory ] -> [history ] 2453
+[4][5] -> [45] 2454
+[Universal ][Music ] -> [Universal Music ] 2455
+[Gr][ou] -> [Grou] 2456
+[al][, ] -> [al, ] 2457
+[on][ic] -> [onic] 2458
+[glob][al ] -> [global ] 2459
+[-][19] -> [-19] 2460
+[8][][] -> [8][] 2461
+[Taylor's Version][) ] -> [Taylor's Version) ] 2462
+[b][b] -> [bb] 2463
+[ari][ous ] -> [arious ] 2464
+[en][d ] -> [end ] 2465
+[inc][e ] -> [ince ] 2466
+[e][en] -> [een] 2467
+[.[][26] -> [.[26] 2468
+[im][p] -> [imp] 2469
+[9][0] -> [90] 2470
+[big][gest ] -> [biggest ] 2471
+[ar][ah] -> [arah] 2472
+[.[][29] -> [.[29] 2473
+[P][aul ] -> [Paul ] 2474
+[o][k ] -> [ok ] 2475
+[m][el] -> [mel] 2476
+[in][t] -> [int] 2477
+[and][, ] -> [and, ] 2478
+[p][o] -> [po] 2479
+[ation][: ] -> [ation: ] 2480
+[em][por] -> [empor] 2481
+[il][ity ] -> [ility ] 2482
+[e ][her ] -> [e her ] 2483
+[r][ank] -> [rank] 2484
+[.[3][5] -> [.[35] 2485
+[urther ][inform] -> [urther inform] 2486
+[ep][h] -> [eph] 2487
+[l][iter] -> [liter] 2488
+[if][t ] -> [ift ] 2489
+[.[3][8] -> [.[38] 2490
+[N][ational ] -> [National ] 2491
+[W][eek ] -> [Week ] 2492
+[] Swift ][has ] -> [] Swift has ] 2493
+[0][7] -> [07] 2494
+[Di][rec] -> [Direc] 2495
+[c][i] -> [ci] 2496
+[Ind][ustry ] -> [Industry ] 2497
+[Poll][star] -> [Pollstar] 2498
+[Artist][s ] -> [Artists ] 2499
+[Album][s ] -> [Albums ] 2500
+[1][)] -> [1)] 2501
+[7][6] -> [76] 2502
+[ann][ual ] -> [annual ] 2503
+[3][0 ] -> [30 ] 2504
+[eleb][rity ] -> [elebrity ] 2505
+[ex][t ] -> [ext ] 2506
+[v][ate ] -> [vate ] 2507
+[2023][, ] -> [2023, ] 2508
+[ing][, ] -> [ing, ] 2509
+[as][on ] -> [ason ] 2510
+[,[5][3] -> [,[53] 2511
+[Bo][b] -> [Bob] 2512
+[P][ol] -> [Pol] 2513
+[F][ir] -> [Fir] 2514
+[en]['s ] -> [en's ] 2515
+[S][ex] -> [Sex] 2516
+[. ][March ] -> [. March ] 2517
+[20][, 2020.\u000a ] -> [20, 2020.\u000a ] 2518
+[S][u] -> [Su] 2519
+[?][ ] -> [? ] 2520
+[.\u000a "][Taylor Swift's ] -> [.\u000a "Taylor Swift's ] 2521
+[". ][A] -> [". A] 2522
+[Read][ing ] -> [Reading ] 2523
+[H][on] -> [Hon] 2524
+[, A][lex] -> [, Alex] 2525
+[a (][April ] -> [a (April ] 2526
+[American ][Songwriter] -> [American Songwriter] 2527
+[Taylor Swift][". Rolling Stone] -> [Taylor Swift". Rolling Stone] 2528
+[, 2019][.\u000a "Taylor Swift ] -> [, 2019.\u000a "Taylor Swift ] 2529
+[ (][June ] -> [ (June ] 2530
+[Wh][o ] -> [Who ] 2531
+[: ][Taylor Swift, ] -> [: Taylor Swift, ] 2532
+[Gre][en] -> [Green] 2533
+[g][, ] -> [g, ] 2534
+[O]['M] -> [O'M] 2535
+[O'M][al] -> [O'Mal] 2536
+[, ][C] -> [, C] 2537
+[in][, J] -> [in, J] 2538
+[Jo][ins ] -> [Joins ] 2539
+[. Retrieved February ][2] -> [. Retrieved February 2] 2540
+[Pr][ess] -> [Press] 2541
+[Ann][ounc] -> [Announc] 2542
+[. Retrieved September ][20] -> [. Retrieved September 20] 2543
+[B][en] -> [Ben] 2544
+[". Billboard. Archived from the original on ][February ] -> [". Billboard. Archived from the original on February ] 2545
+[". Billboard. Archived from the original on ][January ] -> [". Billboard. Archived from the original on January ] 2546
+[O][f ] -> [Of ] 2547
+[ M][usic] -> [ Music] 2548
+[, 2010][). "Taylor Swift ] -> [, 2010). "Taylor Swift ] 2549
+[, 2016. Retrieved August 2][, 2016.\u000a ] -> [, 2016. Retrieved August 2, 2016.\u000a ] 2550
+[16][, 2016] -> [16, 2016] 2551
+[, 2022][. Retrieved November ] -> [, 2022. Retrieved November ] 2552
+[am][an] -> [aman] 2553
+[Re][leas] -> [Releas] 2554
+[A][I] -> [AI] 2555
+[Com][p] -> [Comp] 2556
+[L][ist] -> [List] 2557
+[". The ][H] -> [". The H] 2558
+[". The H][oll] -> [". The Holl] 2559
+[". The Holl][y] -> [". The Holly] 2560
+[". The Holly][wood ] -> [". The Hollywood ] 2561
+[". The Hollywood ][Rep] -> [". The Hollywood Rep] 2562
+[". The Hollywood Rep][or] -> [". The Hollywood Repor] 2563
+[". The Hollywood Repor][ter] -> [". The Hollywood Reporter] 2564
+[:][\u000a] -> [:\u000a] 2565
+[• "][Taylor Swift ] -> [• "Taylor Swift ] 2566
+['][The ] -> ['The ] 2567
+[27][, 2020.\u000a ] -> [27, 2020.\u000a ] 2568
+[". Billboard. Archived from the original on ][June ] -> [". Billboard. Archived from the original on June ] 2569
+['][Lover] -> ['Lover] 2570
+[e][' ] -> [e' ] 2571
+[for][d ] -> [ford ] 2572
+[". ][Time] -> [". Time] 2573
+[". The ][Recording Academ] -> [". The Recording Academ] 2574
+[". B][BC News] -> [". BBC News] 2575
+[, M][el] -> [, Mel] 2576
+[o][s, ] -> [os, ] 2577
+[Grad][y, ] -> [Grady, ] 2578
+[Grady, ][Const] -> [Grady, Const] 2579
+[. ][August ] -> [. August ] 2580
+[19][, 2019.\u000a ] -> [19, 2019.\u000a ] 2581
+[,][' ] -> [,' ] 2582
+[' ][Debuts at No. 1 on ] -> [' Debuts at No. 1 on ] 2583
+[, 2020][. Retrieved February ] -> [, 2020. Retrieved February ] 2584
+[". Billboard. Archived from the original on ][April ] -> [". Billboard. Archived from the original on April ] 2585
+[". N][ME] -> [". NME] 2586
+[". The ][W] -> [". The W] 2587
+[ash][ing] -> [ashing] 2588
+[P][aid ] -> [Paid ] 2589
+[, 2023.\u000a ][B] -> [, 2023.\u000a B] 2590
+[". Billboard][. Retrieved December ] -> [". Billboard. Retrieved December ] 2591
+[". Billboard][. Retrieved November ] -> [". Billboard. Retrieved November ] 2592
+[1][, 2023.\u000a ] -> [1, 2023.\u000a ] 2593
+[Eras Tour][' ] -> [Eras Tour' ] 2594
+[Con][cer] -> [Concer] 2595
+[(March ][18] -> [(March 18] 2596
+[10][, 2021.\u000a ] -> [10, 2021.\u000a ] 2597
+[. Retrieved October 30][, 2021.\u000a ] -> [. Retrieved October 30, 2021.\u000a ] 2598
+[. Archived from the original on March ][18, 2023] -> [. Archived from the original on March 18, 2023] 2599
+[, ][D] -> [, D] 2600
+[S][ur] -> [Sur] 2601
+[. ][IS] -> [. IS] 2602
+[don][ates ] -> [donates ] 2603
+[B][N ] -> [BN ] 2604
+[BN ][97] -> [BN 97] 2605
+[BN 97][8-] -> [BN 978-] 2606
+[guit][arist] -> [guitarist] 2607
+[ist][sAmerican ] -> [istsAmerican ] 2608
+[Ma][in ] -> [Main ] 2609
+[Wikipe][dia] -> [Wikipedia] 2610
+[ear][ch] -> [earch] 2611
+[Tog][gle ] -> [Toggle ] 2612
+[sub][sec] -> [subsec] 2613
+[subsec][tion] -> [subsection] 2614
+[subsection][\u000a] -> [subsection\u000a] 2615
+[a][chi] -> [achi] 2616
+[em][i] -> [emi] 2617
+[\u000aSwift ][at the ] -> [\u000aSwift at the ] 2618
+[B][or] -> [Bor] 2619
+[ac][tress] -> [actress] 2620
+[pres][ent] -> [present] 2621
+[v][ideo] -> [video] 2622
+[l][a] -> [la] 2623
+[str][ument] -> [strument] 2624
+[p][ian] -> [pian] 2625
+[L][ab] -> [Lab] 2626
+[R][C] -> [RC] 2627
+[Rep][ubl] -> [Republ] 2628
+[Republ][ic ] -> [Republic ] 2629
+[at][ure] -> [ature] 2630
+[songwrit][ing] -> [songwriting] 2631
+[sub][ject ] -> [subject ] 2632
+[country ][sing] -> [country sing] 2633
+[si][x ] -> [six ] 2634
+[und][er ] -> [under ] 2635
+[singles ]["] -> [singles "] 2636
+[Love ][Story] -> [Love Story] 2637
+[main][stream] -> [mainstream] 2638
+[mainstream][ ] -> [mainstream ] 2639
+[Speak Now][ (] -> [Speak Now (] 2640
+[el][ectr] -> [electr] 2641
+[feat][ur] -> [featur] 2642
+[W][e ] -> [We ] 2643
+[G][etting ] -> [Getting ] 2644
+[from ][her ] -> [from her ] 2645
+[s][yn] -> [syn] 2646
+[(201][7] -> [(2017] 2647
+[L][oo] -> [Loo] 2648
+[document][ary ] -> [documentary ] 2649
+[M][iss American] -> [Miss American] 2650
+[di][e ] -> [die ] 2651
+[styl][es ] -> [styles ] 2652
+[re-record][ed ] -> [re-recorded ] 2653
+[An][ti-] -> [Anti-] 2654
+[N][ow] -> [Now] 2655
+[?][". ] -> [?". ] 2656
+[highest-grossing ][tour ] -> [highest-grossing tour ] 2657
+[Swift ][has ] -> [Swift has ] 2658
+[ong ][P] -> [ong P] 2659
+[St][udio ] -> [Studio ] 2660
+[tim][es ] -> [times ] 2661
+[by ][the ] -> [by the ] 2662
+[ed][er] -> [eder] 2663
+[stream][ed ] -> [streamed ] 2664
+[Person ][of the Year] -> [Person of the Year] 2665
+[er][ful ] -> [erful ] 2666
+[14][ ] -> [14 ] 2667
+[feat][uring ] -> [featuring ] 2668
+[J][ames ] -> [James ] 2669
+[form][er ] -> [former ] 2670
+[k][er ] -> [ker ] 2671
+[�][�] -> [é] 2672
+[act][or ] -> [actor ] 2673
+[of ][Scot] -> [of Scot] 2674
+[des][cent] -> [descent] 2675
+[An][ton] -> [Anton] 2676
+[Phi][l] -> [Phil] 2677
+[Phil][ad] -> [Philad] 2678
+[Philad][elp] -> [Philadelp] 2679
+[Philadelp][hi] -> [Philadelphi] 2680
+[e][h] -> [eh] 2681
+[sp][ent ] -> [spent ] 2682
+[one ][of ] -> [one of ] 2683
+[att][end] -> [attend] 2684
+[er][g] -> [erg] 2685
+[fer][r] -> [ferr] 2686
+[h][ous] -> [hous] 2687
+[wh][ere ] -> [where ] 2688
+[High][ Sch] -> [High Sch] 2689
+[lat][er ] -> [later ] 2690
+[made ][her ] -> [made her ] 2691
+[su][e ] -> [sue ] 2692
+[d][em] -> [dem] 2693
+[.[][25] -> [.[25] 2694
+[bec][aus] -> [becaus] 2695
+[. ][S] -> [. S] 2696
+[di][ffer] -> [differ] 2697
+[un][ti] -> [unti] 2698
+[Wh][en ] -> [When ] 2699
+[on][n] -> [onn] 2700
+[guit][ar] -> [guitar] 2701
+[wor][king ] -> [working ] 2702
+[mod][el] -> [model] 2703
+[g][iv] -> [giv] 2704
+[d][ev] -> [dev] 2705
+[el][op] -> [elop] 2706
+[1][][3] -> [1][3] 2707
+[a][k ] -> [ak ] 2708
+[wh][en ] -> [when ] 2709
+[, and ][the ] -> [, and the ] 2710
+[Tenness][ee] -> [Tennessee] 2711
+[.[3][6] -> [.[36] 2712
+[\u000a][In ] -> [\u000aIn ] 2713
+[e][.[4] -> [e.[4] 2714
+[ever][y ] -> [every ] 2715
+[s][ome ] -> [some ] 2716
+[I]['] -> [I'] 2717
+[publ][ish] -> [publish] 2718
+[ag][e of ] -> [age of ] 2719
+[u][ff] -> [uff] 2720
+[c][an ] -> [can ] 2721
+[a][is] -> [ais] 2722
+[B][lu] -> [Blu] 2723
+[C][a] -> [Ca] 2724
+[att][ention ] -> [attention ] 2725
+[re][e-] -> [ree-] 2726
+[,00][0] -> [,000] 2727
+[co-][wrote ] -> [co-wrote ] 2728
+[E][ll] -> [Ell] 2729
+[, 200][6] -> [, 2006] 2730
+[peaked ][at number ] -> [peaked at number ] 2731
+[7][ ] -> [7 ] 2732
+[l][ong] -> [long] 2733
+[ad][e] -> [ade] 2734
+[certi][fied ] -> [certified ] 2735
+[ur][ing the ] -> [uring the ] 2736
+[sing][le] -> [single] 2737
+[n][ot ] -> [not ] 2738
+[ough][ ] -> [ough ] 2739
+[u][ch ] -> [uch ] 2740
+[and ][t] -> [and t] 2741
+[elev][ision ] -> [elevision ] 2742
+[Rascal F][lat] -> [Rascal Flat] 2743
+[Rascal Flat][ts ] -> [Rascal Flatts ] 2744
+[i][ti] -> [iti] 2745
+[-][year-] -> [-year-] 2746
+[-year-][old ] -> [-year-old ] 2747
+[kn][own ] -> [known ] 2748
+[singles ][were ] -> [singles were ] 2749
+[Gu][it] -> [Guit] 2750
+[Pic][tur] -> [Pictur] 2751
+[" ][reach] -> [" reach] 2752
+[E][y] -> [Ey] 2753
+[.[5][8] -> [.[58] 2754
+[tr][a] -> [tra] 2755
+[1][] and ] -> [1] and ] 2756
+[Songwriter][/] -> [Songwriter/] 2757
+[bec][om] -> [becom] 2758
+[Academ][y of ] -> [Academy of ] 2759
+[Academy of ][Country ] -> [Academy of Country ] 2760
+[nomin][ated ] -> [nominated ] 2761
+[6][8] -> [68] 2762
+[Hannah][ Mon] -> [Hannah Mon] 2763
+[Hannah Mon][tan] -> [Hannah Montan] 2764
+[sound][track] -> [soundtrack] 2765
+[Wh][ite ] -> [White ] 2766
+[was ][the ] -> [was the ] 2767
+[gen][re ] -> [genre ] 2768
+[en][trie] -> [entrie] 2769
+[gross][ed ] -> [grossed ] 2770
+[perform][ed ] -> [performed ] 2771
+[Keith ][Urban] -> [Keith Urban] 2772
+[Kanye ][West] -> [Kanye West] 2773
+[s, ][including ] -> [s, including ] 2774
+[and ][F] -> [and F] 2775
+[Artist ][of the Year] -> [Artist of the Year] 2776
+[n][d ] -> [nd ] 2777
+[w][in ] -> [win ] 2778
+[.[][9] -> [.[9] 2779
+[H][al] -> [Hal] 2780
+[H][eart] -> [Heart] 2781
+[Tw][o ] -> [Two ] 2782
+[which ][she ] -> [which she ] 2783
+[4][][] -> [4][] 2784
+[" ][with ] -> [" with ] 2785
+[K][ell] -> [Kell] 2786
+[Mov][ie ] -> [Movie ] 2787
+[C][ra] -> [Cra] 2788
+[z][i] -> [zi] 2789
+[rib][ut] -> [ribut] 2790
+[al][ent] -> [alent] 2791
+[D][ay ] -> [Day ] 2792
+[4] ][The ] -> [4] The ] 2793
+[Billboard 200 ][with ] -> [Billboard 200 with ] 2794
+[Me][an] -> [Mean] 2795
+[Grammy ][Award for Best ] -> [Grammy Award for Best ] 2796
+[Golden Glob][e ] -> [Golden Globe ] 2797
+[s][", ] -> [s", ] 2798
+[four][th ] -> [fourth ] 2799
+[Ag][ain] -> [Again] 2800
+[land][, ] -> [land, ] 2801
+[as ][w] -> [as w] 2802
+[al][es] -> [ales] 2803
+[6][][] -> [6][] 2804
+[si][x] -> [six] 2805
+[is][, ] -> [is, ] 2806
+[r][ole ] -> [role ] 2807
+[G][iv] -> [Giv] 2808
+[in][, ] -> [in, ] 2809
+[R][y] -> [Ry] 2810
+[o][od] -> [ood] 2811
+[R][om] -> [Rom] 2812
+[7][]\u000a] -> [7]\u000a] 2813
+[enti][re ] -> [entire ] 2814
+[cat][alog] -> [catalog] 2815
+[st][ated ] -> [stated ] 2816
+[Am][az] -> [Amaz] 2817
+[t][wi] -> [twi] 2818
+[in][a] -> [ina] 2819
+[sh][ ] -> [sh ] 2820
+[T][his ] -> [This ] 2821
+[h][ann] -> [hann] 2822
+[c][red] -> [cred] 2823
+[cla][im] -> [claim] 2824
+[as][hi] -> [ashi] 2825
+[y][n ] -> [yn ] 2826
+[C][MA Award] -> [CMA Award] 2827
+[d][am] -> [dam] 2828
+[lo][y] -> [loy] 2829
+[soci][al ] -> [social ] 2830
+[.][.] -> [..] 2831
+[y ][for ] -> [y for ] 2832
+[G][am] -> [Gam] 2833
+[Ed ][Sh] -> [Ed Sh] 2834
+[Ed Sh][eer] -> [Ed Sheer] 2835
+[um][ul] -> [umul] 2836
+[6][]\u000a] -> [6]\u000a] 2837
+[emotion][al ] -> [emotional ] 2838
+[in][tim] -> [intim] 2839
+[.[][20] -> [.[20] 2840
+[b][ack ] -> [back ] 2841
+[on][ly ] -> [only ] 2842
+[new ][album ] -> [new album ] 2843
+[re][f] -> [ref] 2844
+[Andre][w] -> [Andrew] 2845
+[I][D] -> [ID] 2846
+[cord][ing to ] -> [cording to ] 2847
+[Red ][(] -> [Red (] 2848
+[ed by ][a ] -> [ed by a ] 2849
+[op][ol] -> [opol] 2850
+[1989 (][Taylor's Version)] -> [1989 (Taylor's Version)] 2851
+[St][at] -> [Stat] 2852
+[O][ut] -> [Out] 2853
+[st][er] -> [ster] 2854
+[l][ight ] -> [light ] 2855
+[on][om] -> [onom] 2856
+[le][g] -> [leg] 2857
+[tic][k] -> [tick] 2858
+[T][ick] -> [Tick] 2859
+[wi][d] -> [wid] 2860
+[rem][ark] -> [remark] 2861
+[at][ing ] -> [ating ] 2862
+[T][ra] -> [Tra] 2863
+[v][is ] -> [vis ] 2864
+[on][c] -> [onc] 2865
+[of][ten ] -> [often ] 2866
+[om][ ] -> [om ] 2867
+[high][light] -> [highlight] 2868
+[th][e] -> [the] 2869
+[Paul ][McCart] -> [Paul McCart] 2870
+[e ][Sp] -> [e Sp] 2871
+[r][ing] -> [ring] 2872
+[ring][ste] -> [ringste] 2873
+[P][et] -> [Pet] 2874
+[f][-] -> [f-] 2875
+[.[][30] -> [.[30] 2876
+[or ][of ] -> [or of ] 2877
+[succ][ess ] -> [success ] 2878
+[4][ ] -> [4 ] 2879
+[ic][e] -> [ice] 2880
+[reg][ist] -> [regist] 2881
+[vo][ice ] -> [voice ] 2882
+[au][di] -> [audi] 2883
+[4][4] -> [44] 2884
+[and ][St] -> [and St] 2885
+[ec][ts ] -> [ects ] 2886
+[g][ift ] -> [gift ] 2887
+[l][ov] -> [lov] 2888
+[ ][of ] -> [ of ] 2889
+[tion][al ] -> [tional ] 2890
+[el][com] -> [elcom] 2891
+[k][in] -> [kin] 2892
+[Songwrit][er ] -> [Songwriter ] 2893
+[Ic][on ] -> [Icon ] 2894
+['][re ] -> ['re ] 2895
+[ist][s ] -> [ists ] 2896
+[. ][O] -> [. O] 2897
+[st][age ] -> [stage ] 2898
+[ect][acle ] -> [ectacle ] 2899
+[es, ][S] -> [es, S] 2900
+[enter][tain] -> [entertain] 2901
+[ev][en ] -> [even ] 2902
+[d][iscography ] -> [discography ] 2903
+[bo][ok] -> [book] 2904
+[Time]['s ] -> [Time's ] 2905
+[Guinness World ][Record] -> [Guinness World Record] 2906
+[Guinness World Record][s] -> [Guinness World Records] 2907
+[e ][for ] -> [e for ] 2908
+[D][igital ] -> [Digital ] 2909
+[Album][ S] -> [Album S] 2910
+[Recording ][Industry ] -> [Recording Industry ] 2911
+[A][A] -> [AA] 2912
+[pri][vate ] -> [private ] 2913
+[private ][j] -> [private j] 2914
+[s][.[5] -> [s.[5] 2915
+[vic][tim] -> [victim] 2916
+[Li][p] -> [Lip] 2917
+[Lip][sh] -> [Lipsh] 2918
+[Lipsh][utz] -> [Lipshutz] 2919
+[3][][5] -> [3][5] 2920
+[ri][an] -> [rian] 2921
+[u][tion] -> [ution] 2922
+[y ][Jo] -> [y Jo] 2923
+[ast][er ] -> [aster ] 2924
+[L][G] -> [LG] 2925
+[LG][B] -> [LGB] 2926
+[LGB][T] -> [LGBT] 2927
+[o][l ] -> [ol ] 2928
+[Blo][om] -> [Bloom] 2929
+[Bloom][berg] -> [Bloomberg] 2930
+[re][al ] -> [real ] 2931
+[S][er] -> [Ser] 2932
+[re][lief] -> [relief] 2933
+[tor][n] -> [torn] 2934
+[torn][ad] -> [tornad] 2935
+[ri][um] -> [rium] 2936
+[F][ound] -> [Found] 2937
+[aul][t ] -> [ault ] 2938
+[2020][)\u000a] -> [2020)\u000a] 2939
+[, 2022][. Retrieved April ] -> [, 2022. Retrieved April ] 2940
+[Pop ][Star ] -> [Pop Star ] 2941
+[". The ][Ind] -> [". The Ind] 2942
+[". The Ind][epend] -> [". The Independ] 2943
+[". The Independ][ent] -> [". The Independent] 2944
+[24][, 2014] -> [24, 2014] 2945
+[, 2011][.\u000a ] -> [, 2011.\u000a ] 2946
+[s][qu] -> [squ] 2947
+[, 2015][.\u000a "Taylor Swift ] -> [, 2015.\u000a "Taylor Swift ] 2948
+[7][9] -> [79] 2949
+[, 2016][.\u000a "] -> [, 2016.\u000a "] 2950
+[, ][Taylor Swift ] -> [, Taylor Swift ] 2951
+[New][s : ] -> [News : ] 2952
+[No. ][1] -> [No. 1] 2953
+[, 2019][. Retrieved July ] -> [, 2019. Retrieved July ] 2954
+[a][". ] -> [a". ] 2955
+[, 2024][. Retrieved January ] -> [, 2024. Retrieved January ] 2956
+[21][, 2012.\u000a "] -> [21, 2012.\u000a "] 2957
+[icha][el] -> [ichael] 2958
+[, Jo][hn] -> [, John] 2959
+[M][or] -> [Mor] 2960
+[&][ M] -> [& M] 2961
+[at][t, ] -> [att, ] 2962
+[Green][bur] -> [Greenbur] 2963
+[Greenbur][g, ] -> [Greenburg, ] 2964
+[Greenburg, ][Z] -> [Greenburg, Z] 2965
+[Greenburg, Z][ack ] -> [Greenburg, Zack ] 2966
+[Greenburg, Zack ][O'Mal] -> [Greenburg, Zack O'Mal] 2967
+[". C][ountry ] -> [". Country ] 2968
+[21][, 2022.\u000a ] -> [21, 2022.\u000a ] 2969
+[H][elp] -> [Help] 2970
+[Great ][American ] -> [Great American ] 2971
+[Great American ][Countr] -> [Great American Countr] 2972
+[St][and] -> [Stand] 2973
+[, 2017][. Retrieved February ] -> [, 2017. Retrieved February ] 2974
+[Winn][ers ] -> [Winners ] 2975
+[, 2021][. Retrieved February 14, 2021.\u000a ] -> [, 2021. Retrieved February 14, 2021.\u000a ] 2976
+[N][ow ] -> [Now ] 2977
+[, J][ason ] -> [, Jason ] 2978
+[Chart Hist][ory (] -> [Chart History (] 2979
+[, P][aul ] -> [, Paul ] 2980
+[Y][ah] -> [Yah] 2981
+[es ]['] -> [es '] 2982
+[V][M] -> [VM] 2983
+[. Archived from the original on January ][16, 2016] -> [. Archived from the original on January 16, 2016] 2984
+[8][, 2014] -> [8, 2014] 2985
+[s ]['] -> [s '] 2986
+[re][p] -> [rep] 2987
+[Car][aman] -> [Caraman] 2988
+[Caraman][ic] -> [Caramanic] 2989
+[Caramanic][a, J] -> [Caramanica, J] 2990
+[Caramanica, J][on ] -> [Caramanica, Jon ] 2991
+[!][ ] -> [! ] 2992
+[Blog). ][Archived from the original on ] -> [Blog). Archived from the original on ] 2993
+[K][n] -> [Kn] 2994
+[New ][Album] -> [New Album] 2995
+[Shef][field, ] -> [Sheffield, ] 2996
+[Sheffield, ][Rob] -> [Sheffield, Rob] 2997
+[. Archived from the original on November ][29] -> [. Archived from the original on November 29] 2998
+[w][ins ] -> [wins ] 2999
+[e ][(November ] -> [e (November ] 3000
+[N][omin] -> [Nomin] 3001
+[. Archived from the original on December ][10] -> [. Archived from the original on December 10] 3002
+[, 2015][. Retrieved May ] -> [, 2015. Retrieved May ] 3003
+[:\u000a][ ] -> [:\u000a ] 3004
+[Chart][s ] -> [Charts ] 3005
+[Le][wi] -> [Lewi] 3006
+[s, R][and] -> [s, Rand] 3007
+[Red][' ] -> [Red' ] 3008
+[, 2013][). "Taylor Swift ] -> [, 2013). "Taylor Swift ] 3009
+[All-][Time ] -> [All-Time ] 3010
+[Ma][ke ] -> [Make ] 3011
+[s][ays ] -> [says ] 3012
+[' ][to ] -> [' to ] 3013
+[e (][March ] -> [e (March ] 3014
+[". The ][At] -> [". The At] 3015
+[". The At][lan] -> [". The Atlan] 3016
+[Ha][ve ] -> [Have ] 3017
+[, 2016][). "] -> [, 2016). "] 3018
+[". Billboard. Archived from the original on ][December ] -> [". Billboard. Archived from the original on December ] 3019
+[Will][ ] -> [Will ] 3020
+[Grady, Const][anc] -> [Grady, Constanc] 3021
+[12][, 2023.\u000a ] -> [12, 2023.\u000a ] 3022
+[11][, 2020] -> [11, 2020] 3023
+[, 2023][. Retrieved September ] -> [, 2023. Retrieved September ] 3024
+[Record][ed ] -> [Recorded ] 3025
+[O][ld ] -> [Old ] 3026
+[: ][Taylor Swift's '] -> [: Taylor Swift's '] 3027
+[Peop][le ] -> [People ] 3028
+[Hist][ory ] -> [History ] 3029
+[U.][S] -> [U.S] 3030
+[I][F] -> [IF] 3031
+[ (][January ] -> [ (January ] 3032
+[18][, 2021.\u000a ] -> [18, 2021.\u000a ] 3033
+[, 2019][. Retrieved December ] -> [, 2019. Retrieved December ] 3034
+[ashing][ton ] -> [ashington ] 3035
+[ashington ][Post] -> [ashington Post] 3036
+[14][, 2022.\u000a ] -> [14, 2022.\u000a ] 3037
+[Sh][e's ] -> [She's ] 3038
+[, 2023.\u000a ][Caulfield, Keith ] -> [, 2023.\u000a Caulfield, Keith ] 3039
+[. Retrieved February ][6] -> [. Retrieved February 6] 3040
+[, 2024.\u000a ][Caulfield, Keith ] -> [, 2024.\u000a Caulfield, Keith ] 3041
+[, 2023][. Retrieved November ] -> [, 2023. Retrieved November ] 3042
+[Ever][y ] -> [Every ] 3043
+[R][ank] -> [Rank] 3044
+[Concer][t ] -> [Concert ] 3045
+[Sh][ar] -> [Shar] 3046
+[y, ][Sam] -> [y, Sam] 3047
+[ (][1)] -> [ (1)] 3048
+[ (1)][: ] -> [ (1): ] 3049
+[. ][do] -> [. do] 3050
+[. do][i] -> [. doi] 3051
+[. doi][:] -> [. doi:] 3052
+[. doi:][10] -> [. doi:10] 3053
+[. doi:10][.] -> [. doi:10.] 3054
+[. doi:10.][10] -> [. doi:10.10] 3055
+[Mc][N] -> [McN] 3056
+[McN][ut] -> [McNut] 3057
+[H][ugh] -> [Hugh] 3058
+[". V][ulture] -> [". Vulture] 3059
+[. Retrieved October ][29] -> [. Retrieved October 29] 3060
+[Pr][ov] -> [Prov] 3061
+[en][z] -> [enz] 3062
+[C][over ] -> [Cover ] 3063
+[. Retrieved November ][10, 2021.\u000a ] -> [. Retrieved November 10, 2021.\u000a ] 3064
+[". C][on] -> [". Con] 3065
+[The ][World's ] -> [The World's ] 3066
+[". The ][Tennesse] -> [". The Tennesse] 3067
+[". The Tennesse][an] -> [". The Tennessean] 3068
+[31][, 2019.\u000a ] -> [31, 2019.\u000a ] 3069
+[. IS][BN 978-] -> [. ISBN 978-] 3070
+[v][te] -> [vte] 3071
+[vte][\u000a] -> [vte\u000a] 3072
+[guitarist][sAmerican ] -> [guitaristsAmerican ] 3073
+[Award ][winners] -> [Award winners] 3074
+[en][u] -> [enu] 3075
+[P][ersonal ] -> [Personal ] 3076
+[Con][t] -> [Cont] 3077
+[care][er] -> [career] 3078
+[\u000a][Toggle ] -> [\u000aToggle ] 3079
+[C][ultural ] -> [Cultural ] 3080
+[ograph][y\u000a] -> [ography\u000a] 3081
+[S][ee ] -> [See ] 3082
+[V][i] -> [Vi] 3083
+[F][eat] -> [Feat] 3084
+[f][ree ] -> [free ] 3085
+[Taylor Swift ][(] -> [Taylor Swift (] 3086
+[P][or] -> [Por] 3087
+[tr][ai] -> [trai] 3088
+[t ][of ] -> [t of ] 3089
+[d][r] -> [dr] 3090
+[c][up] -> [cup] 3091
+[ati][v] -> [ativ] 3092
+[gr][and] -> [grand] 3093
+[RC][A ] -> [RCA ] 3094
+[W][eb] -> [Web] 3095
+[vers][ati] -> [versati] 3096
+[re][pr] -> [repr] 3097
+[repr][ene] -> [reprene] 3098
+[ind][ustr] -> [industr] 3099
+[c][over] -> [cover] 3100
+[ession][al ] -> [essional ] 3101
+[under ][the ] -> [under the ] 3102
+[st][art] -> [start] 3103
+[200][6] -> [2006] 3104
+[expl][or] -> [explor] 3105
+[You Belong with Me][" ] -> [You Belong with Me" ] 3106
+[whi][le ] -> [while ] 3107
+[ex][peri] -> [experi] 3108
+[Ev][er ] -> [Ever ] 3109
+[syn][th-] -> [synth-] 3110
+[B][lan] -> [Blan] 3111
+[Blan][k ] -> [Blank ] 3112
+[Blank ][Sp] -> [Blank Sp] 3113
+[Blank Sp][ac] -> [Blank Spac] 3114
+[sc][r] -> [scr] 3115
+[scr][ut] -> [scrut] 3116
+[scrut][in] -> [scrutin] 3117
+[Loo][k ] -> [Look ] 3118
+[Look ][What ] -> [Look What ] 3119
+[You][ M] -> [You M] 3120
+[M][e ] -> [Me ] 3121
+[ograph][ic] -> [ographic] 3122
+[Folklore ][and ] -> [Folklore and ] 3123
+[l][ed ] -> [led ] 3124
+[dis][p] -> [disp] 3125
+[ru][el] -> [ruel] 3126
+[ruel][ S] -> [ruel S] 3127
+[ruel S][umm] -> [ruel Summ] 3128
+[ruel Summ][er] -> [ruel Summer] 3129
+[Will][ow] -> [Willow] 3130
+[Anti-][Her] -> [Anti-Her] 3131
+[s ][such as ] -> [s such as ] 3132
+[Folklore][: The ] -> [Folklore: The ] 3133
+[Folklore: The ][L] -> [Folklore: The L] 3134
+[Folklore: The L][ong P] -> [Folklore: The Long P] 3135
+[Folklore: The Long P][ond ] -> [Folklore: The Long Pond ] 3136
+[Folklore: The Long Pond ][Studio ] -> [Folklore: The Long Pond Studio ] 3137
+[Folklore: The Long Pond Studio ][Session] -> [Folklore: The Long Pond Studio Session] 3138
+[All Too Well][: The ] -> [All Too Well: The ] 3139
+[All Too Well: The ][Short Film] -> [All Too Well: The Short Film] 3140
+[ (][2021] -> [ (2021] 3141
+[world]['s ] -> [world's ] 3142
+[b][est-selling ] -> [best-selling ] 3143
+[sol][d ] -> [sold ] 3144
+[Intern][ational ] -> [International ] 3145
+[ation ][of the ] -> [ation of the ] 3146
+[to][uring ] -> [touring ] 3147
+[bill][ionai] -> [billionai] 3148
+[of All T][ime] -> [of All Time] 3149
+[of All T][ime ] -> [of All Time ] 3150
+[W][y] -> [Wy] 3151
+[Wy][om] -> [Wyom] 3152
+[singer-songwrit][er ] -> [singer-songwriter ] 3153
+[c][k] -> [ck] 3154
+[4][] and ] -> [4] and ] 3155
+[mo][ther, ] -> [mother, ] 3156
+[G][ard] -> [Gard] 3157
+[l][ay] -> [lay] 3158
+[mark][eting ] -> [marketing ] 3159
+[u][ti] -> [uti] 3160
+[her ][fa] -> [her fa] 3161
+[her fa][ther ] -> [her father ] 3162
+[c][ent ] -> [cent ] 3163
+[g][reat] -> [great] 3164
+[Ch][ar] -> [Char] 3165
+[comm][un] -> [commun] 3166
+[le][ad] -> [lead] 3167
+[Philadelphi][a ] -> [Philadelphia ] 3168
+[m][at] -> [mat] 3169
+[op][er] -> [oper] 3170
+[Chri][st] -> [Christ] 3171
+[p][urch] -> [purch] 3172
+[purch][as] -> [purchas] 3173
+[Chri][sti] -> [Christi] 3174
+[.[][14] -> [.[14] 3175
+[attend][ed ] -> [attended ] 3176
+[s][ist] -> [sist] 3177
+[be][for] -> [befor] 3178
+[.[][16] -> [.[16] 3179
+[S][en] -> [Sen] 3180
+[in][e, ] -> [ine, ] 3181
+[] She ][also ] -> [] She also ] 3182
+[tr][av] -> [trav] 3183
+[New York ][City ] -> [New York City ] 3184
+[country ][music] -> [country music] 3185
+[lo][cal ] -> [local ] 3186
+[Fai][th ] -> [Faith ] 3187
+[Faith ][Hill] -> [Faith Hill] 3188
+[f][el] -> [fel] 3189
+[fel][t ] -> [felt ] 3190
+[ee][d] -> [eed] 3191
+[e ][to ] -> [e to ] 3192
+[en ][to ] -> [en to ] 3193
+[v][is] -> [vis] 3194
+[it][t] -> [itt] 3195
+[ov][ers] -> [overs] 3196
+[j][ect] -> [ject] 3197
+[w][n ] -> [wn ] 3198
+[ant][ed to ] -> [anted to ] 3199
+[e ][Har] -> [e Har] 3200
+[unti][l ] -> [until ] 3201
+[ol][d, ] -> [old, ] 3202
+[12][ ] -> [12 ] 3203
+[pl][ay ] -> [play ] 3204
+[. ][C] -> [. C] 3205
+[ef][for] -> [effor] 3206
+[as a ][songwrit] -> [as a songwrit] 3207
+["][L] -> ["L] 3208
+[and ][her ] -> [and her ] 3209
+[p][art ] -> [part ] 3210
+[amp][a] -> [ampa] 3211
+[a ][M] -> [a M] 3212
+[m][a] -> [ma] 3213
+[th][en ] -> [then ] 3214
+[13][ ] -> [13 ] 3215
+[dev][elop] -> [develop] 3216
+[de][al ] -> [deal ] 3217
+[re][qu] -> [requ] 3218
+[H][end] -> [Hend] 3219
+[Hend][erson] -> [Henderson] 3220
+[Henderson][vill] -> [Hendersonvill] 3221
+[A][ar] -> [Aar] 3222
+[Aar][on ] -> [Aaron ] 3223
+[work][ed with ] -> [worked with ] 3224
+[B][ea] -> [Bea] 3225
+[relation][ship ] -> [relationship ] 3226
+[re][di] -> [redi] 3227
+[redi][ble ] -> [redible ] 3228
+[s][.] -> [s.] 3229
+[B][M] -> [BM] 3230
+[Son][y ] -> [Sony ] 3231
+[concer][n] -> [concern] 3232
+[3][]\u000a] -> [3]\u000a] 3233
+[sing][ing ] -> [singing ] 3234
+[a m][ic] -> [a mic] 3235
+[open][ing ] -> [opening ] 3236
+[4][]\u000a] -> [4]\u000a] 3237
+[e ][at ] -> [e at ] 3238
+[D][ream] -> [Dream] 3239
+[exec][utive ] -> [executive ] 3240
+[form][ ] -> [form ] 3241
+[$][1] -> [$1] 3242
+[Ro][ber] -> [Rober] 3243
+[was released on ][October ] -> [was released on October ] 3244
+[pre][vi] -> [previ] 3245
+[as][p] -> [asp] 3246
+[teen][age ] -> [teenage ] 3247
+[e of ][her ] -> [e of her ] 3248
+[releas][e ] -> [release ] 3249
+[d][ec] -> [dec] 3250
+[1][] Swift ] -> [1] Swift ] 3251
+[tr][ack ] -> [track ] 3252
+[pl][at] -> [plat] 3253
+[d][uring the ] -> [during the ] 3254
+[radi][o ] -> [radio ] 3255
+[ur][n] -> [urn] 3256
+[re][plac] -> [replac] 3257
+[said ][that ] -> [said that ] 3258
+[ir][l] -> [irl] 3259
+[F][ollow] -> [Follow] 3260
+[ing ]["] -> [ing "] 3261
+[through][out ] -> [throughout ] 3262
+[youngest ][p] -> [youngest p] 3263
+[youngest p][erson ] -> [youngest person ] 3264
+[The ][Taylor Swift ] -> [The Taylor Swift ] 3265
+[Georg][e S] -> [George S] 3266
+[m][ul] -> [mul] 3267
+[rec][ip] -> [recip] 3268
+[recip][i] -> [recipi] 3269
+[, ][becom] -> [, becom] 3270
+[, becom][ing the ] -> [, becoming the ] 3271
+[th ][Annual Grammy Award] -> [th Annual Grammy Award] 3272
+[sing][er ] -> [singer ] 3273
+[2009][ ] -> [2009 ] 3274
+[.[][7] -> [.[7] 3275
+[N][or] -> [Nor] 3276
+[Fi][ve ] -> [Five ] 3277
+[Song][s ] -> [Songs ] 3278
+[R][adi] -> [Radi] 3279
+[Swift's ][first ] -> [Swift's first ] 3280
+[h][e] -> [he] 3281
+[grossed ][over ] -> [grossed over ] 3282
+[ai][r] -> [air] 3283
+[t][elevision ] -> [television ] 3284
+[Toge][ther ] -> [Together ] 3285
+[was ][named ] -> [was named ] 3286
+[Best ][Female ] -> [Best Female ] 3287
+[Country ][Album] -> [Country Album] 3288
+[nam][ed her ] -> [named her ] 3289
+[C][MT] -> [CMT] 3290
+[2][nd ] -> [2nd ] 3291
+[" ][won ] -> [" won ] 3292
+[Voc][al ] -> [Vocal ] 3293
+[Perform][anc] -> [Performanc] 3294
+[Album ][of the Year] -> [Album of the Year] 3295
+[w][in the ] -> [win the ] 3296
+[Bo][y] -> [Boy] 3297
+[", ][the ] -> [", the ] 3298
+[V][alent] -> [Valent] 3299
+[Valent][ine's ] -> [Valentine's ] 3300
+[includ][ing the ] -> [including the ] 3301
+[adi][an ] -> [adian ] 3302
+[er ][in ] -> [er in ] 3303
+[ed ][and ] -> [ed and ] 3304
+[\u000aSwift ][performing ] -> [\u000aSwift performing ] 3305
+[Speak Now ][World Tour ] -> [Speak Now World Tour ] 3306
+[th][ird ] -> [third ] 3307
+[. ][The ] -> [. The ] 3308
+[atop the ][Billboard 200 with ] -> [atop the Billboard 200 with ] 3309
+[one ][million ] -> [one million ] 3310
+[by ][a ] -> [by a ] 3311
+[Sp][ark] -> [Spark] 3312
+[s ][F] -> [s F] 3313
+[s][[] -> [s[] 3314
+[Can][ad] -> [Canad] 3315
+[in 201][1] -> [in 2011] 3316
+[l][ess ] -> [less ] 3317
+[mak][es ] -> [makes ] 3318
+[Op][en] -> [Open] 3319
+[&][ S] -> [& S] 3320
+[Writ][ten ] -> [Written ] 3321
+[V][is] -> [Vis] 3322
+[Bo][th ] -> [Both ] 3323
+[K][enn] -> [Kenn] 3324
+[New ][Z] -> [New Z] 3325
+[New Z][eal] -> [New Zeal] 3326
+[O][ther ] -> [Other ] 3327
+[K][new ] -> [Knew ] 3328
+[Knew ][You ] -> [Knew You ] 3329
+[Knew You ][Were ] -> [Knew You Were ] 3330
+[Knew You Were ][Tr] -> [Knew You Were Tr] 3331
+[Knew You Were Tr][ou] -> [Knew You Were Trou] 3332
+[Knew You Were Trou][b] -> [Knew You Were Troub] 3333
+[Knew You Were Troub][le] -> [Knew You Were Trouble] 3334
+[L][ast ] -> [Last ] 3335
+[ed the ][top ] -> [ed the top ] 3336
+[Australi][a, ] -> [Australia, ] 3337
+[20][ ] -> [20 ] 3338
+[22][, 2012] -> [22, 2012] 3339
+[9][] Swift ] -> [9] Swift ] 3340
+[ell][ ] -> [ell ] 3341
+[produc][ers ] -> [producers ] 3342
+[in][cor] -> [incor] 3343
+[incor][por] -> [incorpor] 3344
+[man][y ] -> [many ] 3345
+[Tim][es ] -> [Times ] 3346
+[com][pl] -> [compl] 3347
+[5][] Swift ] -> [5] Swift ] 3348
+[six][th ] -> [sixth ] 3349
+[8] ][The ] -> [8] The ] 3350
+[D][uring ] -> [During ] 3351
+[S][we] -> [Swe] 3352
+[voc][al] -> [vocal] 3353
+[song][ "] -> [song "] 3354
+[ear][s ] -> [ears ] 3355
+[s][et ] -> [set ] 3356
+[s][ing ] -> [sing ] 3357
+[L][or] -> [Lor] 3358
+[a][x] -> [ax] 3359
+[s][top] -> [stop] 3360
+[(201][4] -> [(2014] 3361
+[ed][d] -> [edd] 3362
+[i][ ] -> [i ] 3363
+[P][ay] -> [Pay] 3364
+[the first woman ][to ] -> [the first woman to ] 3365
+[h][ers] -> [hers] 3366
+[hers][el] -> [hersel] 3367
+[hersel][f ] -> [herself ] 3368
+[sp][ot] -> [spot] 3369
+[St][yle] -> [Style] 3370
+[an][tic] -> [antic] 3371
+[$][25] -> [$25] 3372
+[re][v] -> [rev] 3373
+[Spotif][y, ] -> [Spotify, ] 3374
+[songwrit][ers] -> [songwriters] 3375
+[that ][she ] -> [that she ] 3376
+[Amaz][on ] -> [Amazon ] 3377
+[P][l] -> [Pl] 3378
+[twi][c] -> [twic] 3379
+[2014][ ] -> [2014 ] 3380
+[ar][k ] -> [ark ] 3381
+[Ex][c] -> [Exc] 3382
+[Mus][eum] -> [Museum] 3383
+[4][, 2015] -> [4, 2015] 3384
+[bro][ke ] -> [broke ] 3385
+[5][8] -> [58] 3386
+[Cal][v] -> [Calv] 3387
+[Calv][in ] -> [Calvin ] 3388
+[Calvin ][Harri] -> [Calvin Harri] 3389
+[.[][17] -> [.[17] 3390
+[voc][als ] -> [vocals ] 3391
+[B][ar] -> [Bar] 3392
+[Ri][hann] -> [Rihann] 3393
+[a][; ] -> [a; ] 3394
+[d][isc] -> [disc] 3395
+[ph][on] -> [phon] 3396
+[a ]["] -> [a "] 3397
+[ ][H] -> [ H] 3398
+[Joe ][Alw] -> [Joe Alw] 3399
+[). ][The ] -> [). The ] 3400
+[0][]\u000a] -> [0]\u000a] 3401
+[em][p] -> [emp] 3402
+[social ][media ] -> [social media ] 3403
+[2][][] -> [2][] 3404
+[hi][p ] -> [hip ] 3405
+[En][d ] -> [End ] 3406
+[Ed Sheer][an ] -> [Ed Sheeran ] 3407
+[sur][pass] -> [surpass] 3408
+[wi][de] -> [wide] 3409
+[Universal Music ][Grou] -> [Universal Music Grou] 3410
+[a ][n] -> [a n] 3411
+[call][ed ] -> [called ] 3412
+[Artist ][of the Dec] -> [Artist of the Dec] 3413
+[23][, 2019] -> [23, 2019] 3414
+[an][k ] -> [ank ] 3415
+[5][00] -> [500] 3416
+[Me][!] -> [Me!] 3417
+[You ][Ne] -> [You Ne] 3418
+[You Ne][ed to ] -> [You Need to ] 3419
+[You Need to ][Cal] -> [You Need to Cal] 3420
+[You Need to Cal][m ] -> [You Need to Calm ] 3421
+[You Need to Calm ][D] -> [You Need to Calm D] 3422
+[You Need to Calm D][own] -> [You Need to Calm Down] 3423
+[sol][o ] -> [solo ] 3424
+[y ][the ] -> [y the ] 3425
+[.[][21] -> [.[21] 3426
+[om][b] -> [omb] 3427
+[ation ][of ] -> [ation of ] 3428
+[ ][L] -> [ L] 3429
+[p][art] -> [part] 3430
+[s of ][Swift's ] -> [s of Swift's ] 3431
+[Fil][m ] -> [Film ] 3432
+[Publish][ing ] -> [Publishing ] 3433
+[ex][p] -> [exp] 3434
+[sur][pri] -> [surpri] 3435
+[rec][og] -> [recog] 3436
+["C][ardigan] -> ["Cardigan] 3437
+[.[][22] -> [.[22] 3438
+[7][] Swift ] -> [7] Swift ] 3439
+[the first ][artist to ] -> [the first artist to ] 3440
+[Ac][cording to ] -> [According to ] 3441
+[highest-][p] -> [highest-p] 3442
+[highest-p][aid ] -> [highest-paid ] 3443
+[in ][2022] -> [in 2022] 3444
+[5][] and ] -> [5] and ] 3445
+[as ][an ] -> [as an ] 3446
+[av][ender ] -> [avender ] 3447
+[H][az] -> [Haz] 3448
+[St][re] -> [Stre] 3449
+[d][ebut] -> [debut] 3450
+[,[][25] -> [,[25] 3451
+[differ][ent ] -> [different ] 3452
+[s][im] -> [sim] 3453
+[Un][ited ] -> [United ] 3454
+[s][ince ] -> [since ] 3455
+[Be][y] -> [Bey] 3456
+[2022][ ] -> [2022 ] 3457
+[T][or] -> [Tor] 3458
+[Tor][tur] -> [Tortur] 3459
+[Tortur][ed ] -> [Tortured ] 3460
+[Tortured ][Po] -> [Tortured Po] 3461
+[Tortured Po][ets ] -> [Tortured Poets ] 3462
+[Tortured Poets ][D] -> [Tortured Poets D] 3463
+[Tortured Poets D][epart] -> [Tortured Poets Depart] 3464
+[in ][2023] -> [in 2023] 3465
+[o][sp] -> [osp] 3466
+[out][le] -> [outle] 3467
+[ec][onom] -> [econom] 3468
+[c][oll] -> [coll] 3469
+[a][rity ] -> [arity ] 3470
+[p][ost] -> [post] 3471
+[remark][ed that ] -> [remarked that ] 3472
+[Tra][vis ] -> [Travis ] 3473
+[T][wit] -> [Twit] 3474
+[] ][As ] -> [] As ] 3475
+[tr][od] -> [trod] 3476
+[trod][uc] -> [troduc] 3477
+[4][] She ] -> [4] She ] 3478
+[in][strument] -> [instrument] 3479
+[P][at] -> [Pat] 3480
+[l][ast ] -> [last ] 3481
+[itch][ell] -> [itchell] 3482
+[ri][dg] -> [ridg] 3483
+[Br][uc] -> [Bruc] 3484
+[Bruc][e Sp] -> [Bruce Sp] 3485
+[Bruce Sp][ringste] -> [Bruce Springste] 3486
+[ri][s] -> [ris] 3487
+[M][ad] -> [Mad] 3488
+[Mad][onn] -> [Madonn] 3489
+[lyric][s ] -> [lyrics ] 3490
+[to][ok ] -> [took ] 3491
+[und][er] -> [under] 3492
+[ha][ving ] -> [having ] 3493
+[ro][ot] -> [root] 3494
+[music ][industry ] -> [music industry ] 3495
+[en][si] -> [ensi] 3496
+[j][ournal] -> [journal] 3497
+[b][a] -> [ba] 3498
+[pop ][music ] -> [pop music ] 3499
+[is][m ] -> [ism ] 3500
+[ated ][by ] -> [ated by ] 3501
+[ar][y] -> [ary] 3502
+[an][o ] -> [ano ] 3503
+[cont][empor] -> [contempor] 3504
+[ab][ility ] -> [ability ] 3505
+[s of ][her ] -> [s of her ] 3506
+[rem][ain] -> [remain] 3507
+[te][ch] -> [tech] 3508
+[qu][e ] -> [que ] 3509
+[enc][e, ] -> [ence, ] 3510
+[e][".[3] -> [e".[3] 3511
+[A][u] -> [Au] 3512
+[T][un] -> [Tun] 3513
+[d][et] -> [det] 3514
+[l][ine ] -> [line ] 3515
+[s][l] -> [sl] 3516
+[e][y] -> [ey] 3517
+[us][s] -> [uss] 3518
+[s][w] -> [sw] 3519
+[][3][3] -> [][33] 3520
+[performanc][es ] -> [performances ] 3521
+[sh][ar] -> [shar] 3522
+[as ]["] -> [as "] 3523
+[list ][of the ] -> [list of the ] 3524
+[The ][New York] -> [The New York] 3525
+[The New York][er ] -> [The New Yorker ] 3526
+[Al][y] -> [Aly] 3527
+[Aly][ss] -> [Alyss] 3528
+[a][th] -> [ath] 3529
+[urther inform][ation: ] -> [urther information: ] 3530
+[ation][s] -> [ations] 3531
+[][3][5] -> [][35] 3532
+[r][are ] -> [rare ] 3533
+[Bri][dg] -> [Bridg] 3534
+[12][] ] -> [12] ] 3535
+[p][ersonal ] -> [personal ] 3536
+[bre][ak] -> [break] 3537
+[u][ri] -> [uri] 3538
+[f][ri] -> [fri] 3539
+[ar][en] -> [aren] 3540
+[describ][ed Swift ] -> [described Swift ] 3541
+[i][d ] -> [id ] 3542
+[Sp][in] -> [Spin] 3543
+[s ][with ] -> [s with ] 3544
+[ef][u] -> [efu] 3545
+[ers][' ] -> [ers' ] 3546
+[enti][al ] -> [ential ] 3547
+[enc][e] -> [ence] 3548
+[9][6] -> [96] 3549
+[sp][ectacle ] -> [spectacle ] 3550
+[entertain][er ] -> [entertainer ] 3551
+[r][ow] -> [row] 3552
+[she ][has ] -> [she has ] 3553
+[ac][ous] -> [acous] 3554
+[on][an] -> [onan] 3555
+[ec][tion] -> [ection] 3556
+[1][][4] -> [1][4] 3557
+[op][in] -> [opin] 3558
+[os][eph] -> [oseph] 3559
+[ah][n ] -> [ahn ] 3560
+[in 201][6] -> [in 2016] 3561
+[by ][an ] -> [by an ] 3562
+[6][4] -> [64] 3563
+[Award][s ] -> [Awards ] 3564
+[Com][m] -> [Comm] 3565
+[b][illion ] -> [billion ] 3566
+[Australi][an ] -> [Australian ] 3567
+[7][.] -> [7.] 3568
+[le][v] -> [lev] 3569
+[4][9] -> [49] 3570
+[Album S][ales ] -> [Album Sales ] 3571
+[S][il] -> [Sil] 3572
+[sex][ual ] -> [sexual ] 3573
+[Un][d] -> [Und] 3574
+[.[4][8] -> [.[48] 3575
+[Forb][es ] -> [Forbes ] 3576
+[Main ][artic] -> [Main artic] 3577
+[l][es] -> [les] 3578
+[8][7] -> [87] 3579
+[en][se ] -> [ense ] 3580
+[er][as] -> [eras] 3581
+[2010][s] -> [2010s] 3582
+[i][us] -> [ius] 3583
+[am][m] -> [amm] 3584
+[gener][ation] -> [generation] 3585
+[Gr][and] -> [Grand] 3586
+[st][ud] -> [stud] 3587
+[R][ing] -> [Ring] 3588
+[B][eat] -> [Beat] 3589
+[Pow][er ] -> [Power ] 3590
+[][5][5] -> [][55] 3591
+[E][aster ] -> [Easter ] 3592
+[un][ch] -> [unch] 3593
+[E][li] -> [Eli] 3594
+[Record ][St] -> [Record St] 3595
+[C][our] -> [Cour] 3596
+[E][qu] -> [Equ] 3597
+[Equ][ality ] -> [Equality ] 3598
+[N][Y] -> [NY] 3599
+[C][ ] -> [C ] 3600
+[donated ][to the ] -> [donated to the ] 3601
+[ani][z] -> [aniz] 3602
+[Pro][ject ] -> [Project ] 3603
+[Li][ves ] -> [Lives ] 3604
+[Bl][ack ] -> [Black ] 3605
+[p][hi] -> [phi] 3606
+[phi][lanthrop] -> [philanthrop] 3607
+[N][ick] -> [Nick] 3608
+[$100,000 ][to the ] -> [$100,000 to the ] 3609
+[.[6][0] -> [.[60] 3610
+[$1 ][million ] -> [$1 million ] 3611
+[Hall of Fam][e] -> [Hall of Fame] 3612
+[to ][help ] -> [to help ] 3613
+[$][50] -> [$50] 3614
+[Found][ation] -> [Foundation] 3615
+[et][ter] -> [etter] 3616
+[f][und] -> [fund] 3617
+[R][ap] -> [Rap] 3618
+[Sex][ual ] -> [Sexual ] 3619
+[Sexual ][Ass] -> [Sexual Ass] 3620
+[Sexual Ass][ault ] -> [Sexual Assault ] 3621
+[RI][A ] -> [RIA ] 3622
+[Mar][k] -> [Mark] 3623
+[on]['t ] -> [on't ] 3624
+[23][, 2015] -> [23, 2015] 3625
+[. Archived from the original on May ][25] -> [. Archived from the original on May 25] 3626
+[s][on ] -> [son ] 3627
+[, 2024][. Retrieved February ] -> [, 2024. Retrieved February ] 3628
+[e (][June ] -> [e (June ] 3629
+[, 2022][. Retrieved July ] -> [, 2022. Retrieved July ] 3630
+[Ph][ill] -> [Phill] 3631
+[H][is] -> [His] 3632
+[. Archived from the original on May ][22] -> [. Archived from the original on May 22] 3633
+[, 2021][. Retrieved July ] -> [, 2021. Retrieved July ] 3634
+[C][o-] -> [Co-] 3635
+[in][e". ] -> [ine". ] 3636
+[Reading ][E] -> [Reading E] 3637
+[Reading E][ag] -> [Reading Eag] 3638
+[Reading Eag][le] -> [Reading Eagle] 3639
+[Gr][ow] -> [Grow] 3640
+[, 2012. Retrieved April ][17] -> [, 2012. Retrieved April 17] 3641
+[Daily ][News] -> [Daily News] 3642
+[Hon][or ] -> [Honor ] 3643
+[C][o] -> [Co] 3644
+[y (][April ] -> [y (April ] 3645
+[a ][F] -> [a F] 3646
+[Taste of Countr][y] -> [Taste of Country] 3647
+[S][av] -> [Sav] 3648
+[, 2013][. Retrieved April ] -> [, 2013. Retrieved April ] 3649
+[12][, 2022.\u000a ] -> [12, 2022.\u000a ] 3650
+[P][D] -> [PD] 3651
+[PD][F] -> [PDF] 3652
+[24][, 2022] -> [24, 2022] 3653
+[y P][er] -> [y Per] 3654
+[. Archived from the original on January ][1] -> [. Archived from the original on January 1] 3655
+[De][al ] -> [Deal ] 3656
+[e][: ] -> [e: ] 3657
+[". Rolling Stone][. Archived from the original on September ] -> [". Rolling Stone. Archived from the original on September ] 3658
+[:][ the ] -> [: the ] 3659
+[30][, 2012.\u000a ] -> [30, 2012.\u000a ] 3660
+[e][y (] -> [ey (] 3661
+[Hi][att, ] -> [Hiatt, ] 3662
+[Hiatt, ][Brian ] -> [Hiatt, Brian ] 3663
+[Greenburg, Zack O'Mal][ley (] -> [Greenburg, Zack O'Malley (] 3664
+[e][ff] -> [eff] 3665
+[. "][Taylor Swift ] -> [. "Taylor Swift ] 3666
+[". Billboard. Archived from the original on ][March ] -> [". Billboard. Archived from the original on March ] 3667
+[F][e] -> [Fe] 3668
+[Taste of Countr][y. ] -> [Taste of Country. ] 3669
+[Me][dia] -> [Media] 3670
+[, 2020][.\u000a "Taylor Swift ] -> [, 2020.\u000a "Taylor Swift ] 3671
+[S][cor] -> [Scor] 3672
+[" (][Blog). ] -> [" (Blog). ] 3673
+[M][om] -> [Mom] 3674
+[. Retrieved March ][6] -> [. Retrieved March 6] 3675
+[. Retrieved March 6][, 2012.\u000a ] -> [. Retrieved March 6, 2012.\u000a ] 3676
+[Chart][s] -> [Charts] 3677
+[.\u000a "Taylor Swift ][Chart History (] -> [.\u000a "Taylor Swift Chart History (] 3678
+[Gre][in] -> [Grein] 3679
+[Grein][, Paul ] -> [Grein, Paul ] 3680
+[. Retrieved May 15][, 2012.\u000a ] -> [. Retrieved May 15, 2012.\u000a ] 3681
+[an ][(December ] -> [an (December ] 3682
+[VM][A] -> [VMA] 3683
+[J][ack] -> [Jack] 3684
+[. Archived from the original on September ][8, 2014] -> [. Archived from the original on September 8, 2014] 3685
+[rep][s, D] -> [reps, D] 3686
+[reps, D][ani] -> [reps, Dani] 3687
+[reps, Dani][el] -> [reps, Daniel] 3688
+[. Retrieved February ][13] -> [. Retrieved February 13] 3689
+[. Archived from the original on November ][20] -> [. Archived from the original on November 20] 3690
+[. Retrieved September ][1] -> [. Retrieved September 1] 3691
+[au][f] -> [auf] 3692
+[auf][man, ] -> [aufman, ] 3693
+[aufman, ][G] -> [aufman, G] 3694
+[aufman, G][i] -> [aufman, Gi] 3695
+[aufman, Gi][l ] -> [aufman, Gil ] 3696
+[(November ][12] -> [(November 12] 3697
+[, 2021][. Retrieved December ] -> [, 2021. Retrieved December ] 3698
+[;][ S] -> [; S] 3699
+[k][er, ] -> [ker, ] 3700
+[y (][October ] -> [y (October ] 3701
+[(November ][3] -> [(November 3] 3702
+[ T][op] -> [ Top] 3703
+[ M][illion ] -> [ Million ] 3704
+[22][, 2015. Retrieved June ] -> [22, 2015. Retrieved June ] 3705
+[op][p] -> [opp] 3706
+[, 2011][). "Taylor Swift ] -> [, 2011). "Taylor Swift ] 3707
+[Bre][ak ] -> [Break ] 3708
+[U][p] -> [Up] 3709
+[n][e, ] -> [ne, ] 3710
+[Wom][en ] -> [Women ] 3711
+[Ex][pl] -> [Expl] 3712
+[posi][tions] -> [positions] 3713
+[positions][:\u000a ] -> [positions:\u000a ] 3714
+[Official ][Charts ] -> [Official Charts ] 3715
+[Official Charts ][Comp] -> [Official Charts Comp] 3716
+[Lewi][s, Rand] -> [Lewis, Rand] 3717
+[, 2020][. Retrieved December ] -> [, 2020. Retrieved December ] 3718
+[". ][USA Today] -> [". USA Today] 3719
+[. Archived from the original on December ][21] -> [. Archived from the original on December 21] 3720
+[Am][ong ] -> [Among ] 3721
+[, 2019][.\u000a "] -> [, 2019.\u000a "] 3722
+[)][". ] -> [)". ] 3723
+[H][uff] -> [Huff] 3724
+[Huff][Post] -> [HuffPost] 3725
+[. Retrieved June ][10] -> [. Retrieved June 10] 3726
+[W][in ] -> [Win ] 3727
+[ ][W] -> [ W] 3728
+[for ]['] -> [for '] 3729
+[". The Atlan][tic] -> [". The Atlantic] 3730
+[Th][eir ] -> [Their ] 3731
+[, 2023][. Retrieved August ] -> [, 2023. Retrieved August ] 3732
+[". The Recording Academ][y] -> [". The Recording Academy] 3733
+[. Retrieved November ][4] -> [. Retrieved November 4] 3734
+[Bill][ion ] -> [Billion ] 3735
+[Year][-] -> [Year-] 3736
+[22][, 2022.\u000a ] -> [22, 2022.\u000a ] 3737
+[Lynch][, Jo] -> [Lynch, Jo] 3738
+[e (][February ] -> [e (February ] 3739
+[M][ore ] -> [More ] 3740
+[Sp][an] -> [Span] 3741
+[Span][os, ] -> [Spanos, ] 3742
+[Spanos, ][Brittan] -> [Spanos, Brittan] 3743
+[ow][ the ] -> [ow the ] 3744
+[a (][July ] -> [a (July ] 3745
+[, 2017][. Retrieved November ] -> [, 2017. Retrieved November ] 3746
+[Top][s ] -> [Tops ] 3747
+[you][ ] -> [you ] 3748
+[2][, 2017] -> [2, 2017] 3749
+[Pow][ers, ] -> [Powers, ] 3750
+[Powers, ][Ann] -> [Powers, Ann] 3751
+[Reputation][' ] -> [Reputation' ] 3752
+[19][, 2021.\u000a ] -> [19, 2021.\u000a ] 3753
+[Break][s ] -> [Breaks ] 3754
+[g][es ] -> [ges ] 3755
+[". Billboard. Archived from the original on ][October ] -> [". Billboard. Archived from the original on October ] 3756
+[Willman, Chri][s (November ] -> [Willman, Chris (November ] 3757
+[ (August ][23] -> [ (August 23] 3758
+[Billboard 200 ][Chart ] -> [Billboard 200 Chart ] 3759
+[Bec][om] -> [Becom] 3760
+[Album ][of ] -> [Album of ] 3761
+[". Variety][. Archived from the original on December ] -> [". Variety. Archived from the original on December ] 3762
+[An][if] -> [Anif] 3763
+[Anif][to] -> [Anifto] 3764
+[Anifto][s, R] -> [Aniftos, R] 3765
+[Aniftos, R][ani] -> [Aniftos, Rani] 3766
+[s][': ] -> [s': ] 3767
+[M][ade ] -> [Made ] 3768
+[n][ap] -> [nap] 3769
+[nap][es, ] -> [napes, ] 3770
+[napes, ][La] -> [napes, La] 3771
+[napes, La][ur] -> [napes, Laur] 3772
+['s ][Biggest ] -> ['s Biggest ] 3773
+[, 2023][. Retrieved July ] -> [, 2023. Retrieved July ] 3774
+[Record ][for ] -> [Record for ] 3775
+[29][, 2022] -> [29, 2022] 3776
+[, 2022). "][The ] -> [, 2022). "The ] 3777
+[, 2022). "Taylor Swift's ][Midnights ] -> [, 2022). "Taylor Swift's Midnights ] 3778
+[17][, 2023.\u000a ] -> [17, 2023.\u000a ] 3779
+[21][, 2022). "] -> [21, 2022). "] 3780
+[In][to ] -> [Into ] 3781
+[, 2022). "][How Taylor Swift ] -> [, 2022). "How Taylor Swift ] 3782
+[". C][N] -> [". CN] 3783
+[W][all] -> [Wall] 3784
+[, 2023). "Taylor Swift ][Makes ] -> [, 2023). "Taylor Swift Makes ] 3785
+[28][, 2023). "Taylor Swift ] -> [28, 2023). "Taylor Swift ] 3786
+[It]['s ] -> [It's ] 3787
+[, 2023). "Taylor Swift ][Is ] -> [, 2023). "Taylor Swift Is ] 3788
+[G][l] -> [Gl] 3789
+[St][ev] -> [Stev] 3790
+[, 2023.\u000a ][D] -> [, 2023.\u000a D] 3791
+[i][k] -> [ik] 3792
+[Taylor Swift's ][Eras Tour ] -> [Taylor Swift's Eras Tour ] 3793
+[Shar][es ] -> [Shares ] 3794
+[. Retrieved July ][2] -> [. Retrieved July 2] 3795
+[an][ts ] -> [ants ] 3796
+[, 2012][. Retrieved July 1, 2012.\u000a ] -> [, 2012. Retrieved July 1, 2012.\u000a ] 3797
+[Con][n] -> [Conn] 3798
+[, 2019][. Retrieved April ] -> [, 2019. Retrieved April ] 3799
+[2][, 2022). "] -> [2, 2022). "] 3800
+[. doi:10.10][80] -> [. doi:10.1080] 3801
+[. doi:10.1080][/] -> [. doi:10.1080/] 3802
+[McNut][t ] -> [McNutt ] 3803
+[McNutt ][2020] -> [McNutt 2020] 3804
+[McNutt 2020][, p. ] -> [McNutt 2020, p. ] 3805
+[D][isc] -> [Disc] 3806
+[With ]['] -> [With '] 3807
+[, p. ][17] -> [, p. 17] 3808
+[. Archived from the original on November ][12] -> [. Archived from the original on November 12] 3809
+[Review][". Variety] -> [Review". Variety] 3810
+[Prov][enz] -> [Provenz] 3811
+[Lipshutz][, Jason ] -> [Lipshutz, Jason ] 3812
+[' ][Is ] -> [' Is ] 3813
+[g][g] -> [gg] 3814
+[. Retrieved August ][7] -> [. Retrieved August 7] 3815
+[vi][a ] -> [via ] 3816
+[y][; ] -> [y; ] 3817
+[. Archived from the original on June ][17] -> [. Archived from the original on June 17] 3818
+[. Archived from the original on March 18, 2023][. Retrieved March ] -> [. Archived from the original on March 18, 2023. Retrieved March ] 3819
+[, 2023). "][How ] -> [, 2023). "How ] 3820
+[F][ar ] -> [Far ] 3821
+[' ][at ] -> [' at ] 3822
+[, 2019). "][Watch ] -> [, 2019). "Watch ] 3823
+[, 2019][.\u000a] -> [, 2019.\u000a] 3824
+[Em][ily ] -> [Emily ] 3825
+[Re][c] -> [Rec] 3826
+[Rec][ei] -> [Recei] 3827
+[Br][and] -> [Brand] 3828
+[Brand][le] -> [Brandle] 3829
+[Brandle][, L] -> [Brandle, L] 3830
+[Brandle, L][ar] -> [Brandle, Lar] 3831
+[A][h] -> [Ah] 3832
+[". Billboard][. Retrieved July ] -> [". Billboard. Retrieved July ] 3833
+[ist][s] -> [ists] 3834
+[-][8] -> [-8] 3835
+[Gen][er] -> [Gener] 3836
+[Su][ppor] -> [Suppor] 3837
+[High][est-] -> [Highest-] 3838
+[Highest-][Paid ] -> [Highest-Paid ] 3839
+[1][-] -> [1-] 3840
+[7][.\u000a] -> [7.\u000a] 3841
+[Edit this at Wikidata\u000a][Taylor Swift ] -> [Edit this at Wikidata\u000aTaylor Swift ] 3842
+[actress][es] -> [actresses] 3843
+[descent][American ] -> [descentAmerican ] 3844
+[s ][from Tennessee] -> [s from Tennessee] 3845
+[s from ][Pennsylvania] -> [s from Pennsylvania] 3846
+[The ][F] -> [The F] 3847
+[e][dia] -> [edia] 3848
+[S][earch] -> [Search] 3849
+[acc][ount] -> [account] 3850
+[Li][fe and ] -> [Life and ] 3851
+[Ac][c] -> [Acc] 3852
+[achi][ev] -> [achiev] 3853
+[Cultural ][stat] -> [Cultural stat] 3854
+[W][eal] -> [Weal] 3855
+[Re][fer] -> [Refer] 3856
+[Refer][enc] -> [Referenc] 3857
+[lin][k] -> [link] 3858
+[s][ourc] -> [sourc] 3859
+[e][\u000a] -> [e\u000a] 3860
+[hist][ory] -> [history] 3861
+[pro][t] -> [prot] 3862
+[)][.\u000a] -> [).\u000a] 3863
+[Taylor ][Alison ] -> [Taylor Alison ] 3864
+[December ][13] -> [December 13] 3865
+[December 13][, ] -> [December 13, ] 3866
+[3][4] -> [34] 3867
+[Sing][er-songwrit] -> [Singer-songwrit] 3868
+[Year][s ] -> [Years ] 3869
+[ac][ti] -> [acti] 3870
+[200][4] -> [2004] 3871
+[sing][l] -> [singl] 3872
+[Re][l] -> [Rel] 3873
+[Swift ][(] -> [Swift (] 3874
+[Mar][j] -> [Marj] 3875
+[Marj][ori] -> [Marjori] 3876
+[e ][Fin] -> [e Fin] 3877
+[u][ll ] -> [ull ] 3878
+[Music][al ] -> [Musical ] 3879
+[uk][ul] -> [ukul] 3880
+[ukul][el] -> [ukulel] 3881
+[s][it] -> [sit] 3882
+[t][ayl] -> [tayl] 3883
+[tayl][ors] -> [taylors] 3884
+[taylors][wif] -> [taylorswif] 3885
+[taylorswif][t] -> [taylorswift] 3886
+[b][or] -> [bor] 3887
+[. ][Her ] -> [. Her ] 3888
+[versati][le ] -> [versatile ] 3889
+[r][y, ] -> [ry, ] 3890
+[reprene][ur] -> [repreneur] 3891
+[popul][ar ] -> [popular ] 3892
+[pol][itic] -> [politic] 3893
+[s, and ][her ] -> [s, and her ] 3894
+[subject ][of ] -> [subject of ] 3895
+[wi][des] -> [wides] 3896
+[wides][pre] -> [widespre] 3897
+[widespre][ad ] -> [widespread ] 3898
+[Big Machine ][Record] -> [Big Machine Record] 3899
+[studio ][albums ] -> [studio albums ] 3900
+[radi][o, ] -> [radio, ] 3901
+[ing ][with ] -> [ing with ] 3902
+[explor][ed ] -> [explored ] 3903
+[Speak Now (][2010] -> [Speak Now (2010] 3904
+[on][ic ] -> [onic ] 3905
+[el][ement] -> [element] 3906
+[Billboard ][Hot 100 ] -> [Billboard Hot 100 ] 3907
+[Getting ][Back ] -> [Getting Back ] 3908
+[Toge][ther] -> [Together] 3909
+[synth-][pop ] -> [synth-pop ] 3910
+[Sha][ke ] -> [Shake ] 3911
+[Shake ][It ] -> [Shake It ] 3912
+[Shake It ][Off] -> [Shake It Off] 3913
+[Blank Spac][e] -> [Blank Space] 3914
+[-][h] -> [-h] 3915
+[influenc][ed ] -> [influenced ] 3916
+[Reputation ][(2017] -> [Reputation (2017] 3917
+[Look What ][You M] -> [Look What You M] 3918
+[Look What You M][ade ] -> [Look What You Made ] 3919
+[Look What You Made ][Me ] -> [Look What You Made Me ] 3920
+[Look What You Made Me ][Do] -> [Look What You Made Me Do] 3921
+[, Swift ][releas] -> [, Swift releas] 3922
+[Lover ][(201] -> [Lover (201] 3923
+[Lover (201][9] -> [Lover (2019] 3924
+[in][die ] -> [indie ] 3925
+[2020 ][albums ] -> [2020 albums ] 3926
+[Folklore and ][Everm] -> [Folklore and Everm] 3927
+[Folklore and Everm][ore, ] -> [Folklore and Evermore, ] 3928
+[electr][op] -> [electrop] 3929
+[Midnights ][(] -> [Midnights (] 3930
+[Midnights (][2022] -> [Midnights (2022] 3931
+[)][, and ] -> [), and ] 3932
+[disp][ute ] -> [dispute ] 3933
+[. ][Th] -> [. Th] 3934
+[Anti-Her][o] -> [Anti-Hero] 3935
+[Is ][It ] -> [Is It ] 3936
+[Is It ][Over ] -> [Is It Over ] 3937
+[Is It Over ][Now] -> [Is It Over Now] 3938
+[Eras Tour ][(] -> [Eras Tour (] 3939
+[Eras Tour (][2023] -> [Eras Tour (2023] 3940
+[ac][comp] -> [accomp] 3941
+[of ][all ] -> [of all ] 3942
+[resp][ectiv] -> [respectiv] 3943
+[respectiv][el] -> [respectivel] 3944
+[ed s][everal ] -> [ed several ] 3945
+[music ][video] -> [music video] 3946
+[s, ][with ] -> [s, with ] 3947
+[as of ][2019] -> [as of 2019] 3948
+[Global ][Recording ] -> [Global Recording ] 3949
+[three ][times ] -> [three times ] 3950
+[F][eder] -> [Feder] 3951
+[Ph][on] -> [Phon] 3952
+[ograph][ic ] -> [ographic ] 3953
+[Ind][ustr] -> [Industr] 3954
+[m][ain ] -> [main ] 3955
+[ T][ime ] -> [ Time ] 3956
+[, Swift ][has ] -> [, Swift has ] 3957
+[100 ][Greatest ] -> [100 Greatest ] 3958
+[100 Greatest ][Songwriters ] -> [100 Greatest Songwriters ] 3959
+[Greatest ][of All Time ] -> [Greatest of All Time ] 3960
+[Forbes][' ] -> [Forbes' ] 3961
+[acc][olad] -> [accolad] 3962
+[includ][e ] -> [include ] 3963
+[Grammy Award][s (] -> [Grammy Awards (] 3964
+[w][in] -> [win] 3965
+[Pri][me] -> [Prime] 3966
+[Prime][time ] -> [Primetime ] 3967
+[Primetime ][Emmy ] -> [Primetime Emmy ] 3968
+[American Music Award][s, ] -> [American Music Awards, ] 3969
+[Billboard ][Music Award] -> [Billboard Music Award] 3970
+[child][h] -> [childh] 3971
+[childh][ood ] -> [childhood ] 3972
+[h][ome ] -> [home ] 3973
+[, P][ennsylvania] -> [, Pennsylvania] 3974
+[Scot][t ] -> [Scott ] 3975
+[le][y ] -> [ley ] 3976
+[Swift][, ] -> [Swift, ] 3977
+[M][er] -> [Mer] 3978
+[n][er ] -> [ner ] 3979
+[youn][ger ] -> [younger ] 3980
+[mo][ther ] -> [mother ] 3981
+[of Scot][ti] -> [of Scotti] 3982
+[di][st] -> [dist] 3983
+[It][ali] -> [Itali] 3984
+[Itali][an ] -> [Italian ] 3985
+[tr][y] -> [try] 3986
+[ern][al ] -> [ernal ] 3987
+[o ][B] -> [o B] 3988
+[was ][an ] -> [was an ] 3989
+[im][m] -> [imm] 3990
+[eh][l] -> [ehl] 3991
+[.[][11] -> [.[11] 3992
+[12][][] -> [12][] 3993
+[Christi][an] -> [Christian] 3994
+[v][ern] -> [vern] 3995
+[r][un ] -> [run ] 3996
+[befor][e ] -> [before ] 3997
+[trans][ferr] -> [transferr] 3998
+[fam][ily ] -> [family ] 3999
+[to ][a ] -> [to a ] 4000
+[i][or ] -> [ior ] 4001
+[th][eat] -> [theat] 4002
+[er ][and ] -> [er and ] 4003
+[produc][tion] -> [production] 4004
+[trav][el] -> [travel] 4005
+[oc][us ] -> [ocus ] 4006
+[inspir][ed by ] -> [inspired by ] 4007
+[Tw][ain] -> [Twain] 4008
+[ar][ound ] -> [around ] 4009
+[] She ][spent ] -> [] She spent ] 4010
+[ev][ent] -> [event] 4011
+[] ][After ] -> [] After ] 4012
+[record ][label] -> [record label] 4013
+[Ch][ick] -> [Chick] 4014
+[becaus][e ] -> [because ] 4015
+[w][anted to ] -> [wanted to ] 4016
+[m][y] -> [my] 4017
+[ne][ed to ] -> [need to ] 4018
+[years ][old, ] -> [years old, ] 4019
+[a][ugh] -> [augh] 4020
+[man][ag] -> [manag] 4021
+[ed ][for ] -> [ed for ] 4022
+[part ][of ] -> [part of ] 4023
+[s][" ] -> [s" ] 4024
+[ampa][ign] -> [ampaign] 4025
+[an ][artist ] -> [an artist ] 4026
+[f][requ] -> [frequ] 4027
+[t][ri] -> [tri] 4028
+[sc][en] -> [scen] 4029
+[.[][12] -> [.[12] 4030
+[][3][4] -> [][34] 4031
+[Hendersonvill][e ] -> [Hendersonville ] 4032
+[Hendersonville ][High Sch] -> [Hendersonville High Sch] 4033
+[[][3] -> [[3] 4034
+[ated ][her ] -> [ated her ] 4035
+[h][om] -> [hom] 4036
+[Car][e] -> [Care] 4037
+[songwrit][ers ] -> [songwriters ] 4038
+[relationship ][with ] -> [relationship with ] 4039
+[Liz][ ] -> [Liz ] 4040
+[Liz ][Ros] -> [Liz Ros] 4041
+[Th][ey ] -> [They ] 4042
+[s][ession] -> [session] 4043
+[T][u] -> [Tu] 4044
+[a][f] -> [af] 4045
+[o][on ] -> [oon ] 4046
+[I ][was ] -> [I was ] 4047
+[e]['] -> [e'] 4048
+[sch][ool ] -> [school ] 4049
+[s][ay] -> [say] 4050
+[inc][redible ] -> [incredible ] 4051
+[oo][k] -> [ook] 4052
+[Son][y] -> [Sony] 4053
+[Sony][/] -> [Sony/] 4054
+[Sony/][AT] -> [Sony/AT] 4055
+[peop][le] -> [people] 4056
+[un][ning ] -> [unning ] 4057
+[out ][of ] -> [out of ] 4058
+[c][ap] -> [cap] 4059
+[th][ese ] -> [these ] 4060
+[on ][a mic] -> [on a mic] 4061
+[r][op] -> [rop] 4062
+[Bra][d ] -> [Brad ] 4063
+[Brad ][P] -> [Brad P] 4064
+[Brad P][ais] -> [Brad Pais] 4065
+[country ][musician] -> [country musician] 4066
+[2007][ and ] -> [2007 and ] 4067
+[Nashvill][e's ] -> [Nashville's ] 4068
+[Bor][ch] -> [Borch] 4069
+[Borch][ett] -> [Borchett] 4070
+[s][,[3] -> [s,[3] 4071
+[th][ree-] -> [three-] 4072
+[es][tim] -> [estim] 4073
+[.[4][6] -> [.[46] 4074
+[][4][7] -> [][47] 4075
+[Pe][tr] -> [Petr] 4076
+[critic][ ] -> [critic ] 4077
+[de][em] -> [deem] 4078
+[on the ][US ] -> [on the US ] 4079
+[in the ][US ] -> [in the US ] 4080
+[200][6 ] -> [2006 ] 4081
+[ing ][and ] -> [ing and ] 4082
+[et][, ] -> [et, ] 4083
+[to ][do ] -> [to do ] 4084
+[E][ric ] -> [Eric ] 4085
+[th][ough ] -> [though ] 4086
+[iti][ally ] -> [itially ] 4087
+[Guit][ar] -> [Guitar] 4088
+[Our ][Song] -> [Our Song] 4089
+['][ve ] -> ['ve ] 4090
+[te][en ] -> [teen ] 4091
+[ol][id] -> [olid] 4092
+[Bea][uti] -> [Beauti] 4093
+[Beauti][ful ] -> [Beautiful ] 4094
+[ext][ens] -> [extens] 4095
